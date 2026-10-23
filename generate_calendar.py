@@ -10,6 +10,18 @@ RAIN_BIKE = "Plan B météo : home trainer ou vélo de salle même durée. Sinon
 RENFO = {1:"Renfo niveau 1 (~30 min) : mollets 3x15 sur 2 pieds, squat 3x15, step-down 3x8/jambe, pont fessier 3x15, gainage 3x30s, élastique éversion cheville 3x15, short foot + 1 pied 3x30s.",
          2:"Renfo niveau 2 (~35 min) : mollets 3x12 sur 1 pied, squat bulgare 3x10/jambe, step-down 3x12, pont 1 jambe 3x12, nordic curl assisté 3x5, gainage 3x45s, élastique 3x20, équilibre yeux fermés.",
          3:"Renfo niveau 3 (~40 min) : mollets 1 pied lesté descente lente 3x12, bulgare lesté 3x8 (+ squat sauté 3x6 dès mars), step-down lesté 3x12, pont pieds surélevés 3x12, nordic 3x6-8, gainage 3x1min, élastique dur 3x20, équilibre sur coussin."}
+# Allures : remplacer par des min/km quand le chrono de référence est connu
+ALLURE = {
+ "EF": "EF : très facile, 3-4/10, tu parles sans effort, 65-75% FCmax",
+ "AM": "allure marathon : 6/10, 80-85% FCmax",
+ "SEUIL": "allure seuil (semi-marathon) : 7/10, 85-90% FCmax, quelques mots seulement",
+ "VMA": "allure 5-10 km : 8-9/10, 90-95% FCmax en fin de répétition",
+ "COURT": "30\" à 1' rapide : allure 3-5 km, 9/10, relâché",
+}
+ECH = "15' échauffement EF + 3 lignes droites, puis "
+FIN = ", puis 10' retour au calme EF."
+def frac(corps, *zones):
+    return ECH + corps + FIN + "\nAllures : " + " | ".join(ALLURE[z] for z in zones) + "\nLieu : plat (berges du Rhône, parc de la Tête d'Or) ou piste. Pluie : tapis."
 RENFO_B = "Renfo B (~30 min, complément de début de saison, peut se faire après le vélo) : gainage planche, latéral et superman 3x40s, fentes marchées 3x10/jambe, chaise 3x45s, mollets excentriques sur une marche 3x12, élastique cheville 4 directions 3x15, équilibre 1 pied 3x45s, pompes 3x10."
 NUTRI = "Sortie > 2h : teste ta stratégie anti-crampes (500-1000 mg sodium/h, 500-750 ml/h, 60-90 g glucides/h). Note ce que tu prends et si crampes."
 
@@ -51,7 +63,11 @@ for w,(km,ld,dp,light) in p1.items():
     if sk<5: lk+=sk; sk=0
     head=f"Base, semaine S{w}"+(" (allégée)" if light else "")+f" : ~{km} km, ~{dp} m D+ au total."
     renfo(D(w,0),lvl)
-    run(D(w,1),f"Course {tk} km EF",head+f"\n{tk} km en endurance fondamentale (65-75% FCmax) + 4 lignes droites.")
+    P1F={5:"10 x 30\"/30\" (30\" rapide, 30\" trot)",7:"12 x 30\"/30\"",8:"2 séries de 8 x 30\"/30\", 3' trot entre les séries",9:"8 x 1' rapide / 1' trot"}
+    if w in P1F:
+        run(D(w,1),"Fractionné "+("8 x 1'/1'" if w==9 else "30/30"),head+"\n"+frac(P1F[w],"COURT","EF"))
+    else:
+        run(D(w,1),f"Course {tk} km EF",head+f"\n{tk} km en endurance fondamentale + 4 lignes droites.\nAllure : "+ALLURE["EF"])
     velo(D(w,2),"1h30-2h")
     add(D(w,2),"💪 Renfo B",RENFO_B)
     if w>=5 and not light:
@@ -64,7 +80,7 @@ for w,(km,ld,dp,light) in p1.items():
     else: velo(D(w,6),"1h30","Ou repos.")
 
 # Phase 2 & 3 weeks: (km, D+, long duration, tue quality, phase label, renfo lvl, light?)
-Q_COTES_A = "Côtes Fourvière : 15' échauffement, 8 x 1'30 en montée (effort soutenu), retour en trottinant/marchant, 10' retour au calme."
+Q_COTES_A = "Côtes Fourvière : 15' échauffement EF, 8 x 1'30 en montée (effort soutenu), retour en trottinant/marchant, 10' retour au calme."
 Q_SEUIL = "Seuil : 15' échauffement, 3 x 8' à allure seuil (difficile mais tenable 1h), récup 2', 10' retour au calme. Plat ou tapis."
 Q_COTES_L = "Côtes longues : 15' échauffement, 4 x 5' en montée (Choulans/Gourguillon ou tapis 10-15%), redescente en courant pour travailler les quadris, 10' calme."
 Q_EASY = "Footing facile avec 6 lignes droites, semaine allégée."
@@ -107,7 +123,7 @@ for (w,km,dp,ld,q,lab,lvl,light) in weeks:
         continue
     if w==33:
         renfo(D(w,0),3,"Version très légère, pas de charges lourdes.")
-        run(D(w,1),"Footing 40' + 3 x 3' allure course", head)
+        run(D(w,1),"Footing 40' + 3 x 3' allure course", head + " Allure course UTHG : très facile, objectif 12 min/km de moyenne tout compris (≈18h).")
         velo(D(w,2),"45'","Très facile.")
         run(D(w,3),"Footing 30' facile", "Jambes légères.")
         repos(D(w,4),"Repos. À ajuster quand la date exacte de l'UTHG 90 est connue.")
@@ -115,17 +131,36 @@ for (w,km,dp,ld,q,lab,lvl,light) in weeks:
         repos(D(w,6),"Récupération.")
         continue
     renfo(D(w,0),lvl)
-    run(D(w,1),"Qualité : " + q.split(":")[0], head + "\n" + q)
+    TUE={11:"10 x 400 m, récup 1' trot",12:"6 x 800 m, récup 1'30",13:"5 x 1000 m, récup 2'",
+         15:"6 x 1000 m, récup 1'30",16:"4 x 1500 m, récup 2'",17:"3 x 2000 m, récup 2'30",
+         19:"6 x 1000 m, récup 1'30",20:"5 x 1200 m, récup 1'30",21:"4 x 2000 m, récup 2'",31:"6 x 1000 m, récup 1'30"}
+    THU={23:("Seuil 2 x 15'",frac("2 x 15' allure seuil, récup 3'","SEUIL","EF")),
+         24:("Seuil 3 x 12'",frac("3 x 12' allure seuil, récup 2'","SEUIL","EF")),
+         25:("Tempo 40' vallonné",frac("40' allure marathon sur parcours vallonné","AM","EF")),
+         27:("Seuil 3 x 10'",frac("3 x 10' allure seuil, récup 2'","SEUIL","EF")),
+         30:("Tempo 30'",frac("30' allure marathon","AM","EF")),
+         31:("Seuil 2 x 10'",frac("2 x 10' allure seuil, récup 2'","SEUIL","EF"))}
+    if light:
+        run(D(w,1),"Fractionné court 8 x 30/30", head+"\n"+frac("8 x 30\"/30\" pour garder de la vitesse sans fatigue","COURT","EF"))
+    elif w in TUE:
+        run(D(w,1),"Fractionné " + TUE[w].split(",")[0], head+"\n"+frac(TUE[w]+(", à allure 10 km" if w>=17 else ", à allure 5-10 km"),"VMA","EF"))
+    else:
+        run(D(w,1),"Côtes spécifiques", head + "\n" + q)
     if w < 23:
         velo(D(w,2),"1h30-2h","Si fatigue, tu peux le remplacer par du repos.")
     else:
         velo(D(w,2),"1h30","Ou 45' de course facile si le vélo n'est pas dispo.")
     tk = round(km*0.22)
-    run(D(w,3), f"Course {tk} km EF vallonné", f"{tk} km en endurance, sur parcours vallonné (Fourvière, Croix-Rousse). Inclut les descentes à partir de février.")
+    if light:
+        run(D(w,3), f"Course {tk} km EF vallonné", f"{tk} km en endurance, parcours vallonné.\nAllure : "+ALLURE["EF"])
+    elif w in THU:
+        run(D(w,3), THU[w][0], THU[w][1])
+    else:
+        run(D(w,3), "Qualité : " + q.split(":")[0], q + "\nSi tu te sens fatigué après le fractionné de mardi, fais plutôt 45' EF vallonné.\nAllures : effort soutenu en montée (7-8/10), retour EF.")
     renfo(D(w,4),lvl,"Ou repos. Jamais la veille d'une grosse sortie longue : si besoin déplace-le au jeudi.")
     lk = round(km*0.40)
     run(D(w,5), f"Sortie longue {ld}" + (" (Samoëns ou Fourvière)" if w<23 else " montagne"),
-        f"Sortie longue {ld}, ~{lk} km. Samoëns : en montagne avec D+ (raquettes ou ski de rando OK si neige). Lyon : boucles Fourvière (Choulans, Gourguillon, Chazeaux) ou tapis incliné." , long=True)
+        f"Sortie longue {ld}, ~{lk} km, en EF (allure libre dans les montées, marche si ça grimpe fort). Samoëns : en montagne avec D+ (raquettes ou ski de rando OK si neige). Lyon : boucles Fourvière (Choulans, Gourguillon, Chazeaux) ou tapis incliné." , long=True)
     sk = km - tk - lk - round(km*0.2)
     sk = max(sk, round(km*0.18))
     if w>=23 and not light:
@@ -133,7 +168,7 @@ for (w,km,dp,ld,q,lab,lvl,light) in weeks:
     else:
         run(D(w,6), f"Course {sk} km récup", f"{sk} km très facile, récupération. Ou vélo 1h30 si tu préfères.")
 
-def esc(s): return s.replace("\\","\\\\").replace(";","\;").replace(",","\\,").replace("\n","\\n")
+def esc(s): return s.replace("\\","\\\\").replace(";",r"\;").replace(",","\\,").replace("\n","\\n")
 def fold(line):
     b = line.encode(); out=[]
     while len(b)>75:
@@ -142,7 +177,7 @@ def fold(line):
         out.append(b[:cut]); b=b" "+b[cut:]
     out.append(b); return b"\r\n".join(out).decode()
 L=["BEGIN:VCALENDAR","VERSION:2.0","PRODID:-//Trail UTHG90//FR","CALSCALE:GREGORIAN","X-WR-CALNAME:Trail UTHG 90","X-WR-TIMEZONE:Europe/Paris"]
-stamp="20261023T100000Z"
+stamp=dt.datetime.now(dt.timezone.utc).strftime("%Y%m%dT%H%M%SZ")
 for i,(day,t,d) in enumerate(sorted(ev,key=lambda e:e[0])):
     L += ["BEGIN:VEVENT", f"UID:uthg90-{day.isoformat()}-{i}@trail", f"DTSTAMP:{stamp}",
           f"DTSTART;VALUE=DATE:{day:%Y%m%d}", f"DTEND;VALUE=DATE:{day+dt.timedelta(days=1):%Y%m%d}",

@@ -6,7 +6,7 @@ X-WR-CALNAME:Trail UTHG 90
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
 UID:uthg90-2026-10-26-0@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:💪 Renfo N1
@@ -21,7 +21,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-10-27-1@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
 SUMMARY:🏃 Course 25' facile
@@ -37,7 +37,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-10-28-2@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:🚴 Vélo 1h-1h30
@@ -51,7 +51,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-10-28-3@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:💪 Renfo B
@@ -67,7 +67,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-10-29-4@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:🏃 Course 25' facile
@@ -83,7 +83,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-10-30-5@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:💪 Renfo N1
@@ -98,7 +98,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-10-31-6@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:🏃 Course 25' facile
@@ -114,7 +114,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-11-01-7@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:🚴 Vélo 1h30
@@ -128,7 +128,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-11-02-8@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:💪 Renfo N1
@@ -143,7 +143,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-11-03-9@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:🏃 Course 30' facile
@@ -158,7 +158,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-11-04-10@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:🚴 Vélo 1h-1h30
@@ -172,7 +172,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-11-04-11@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:💪 Renfo B
@@ -188,7 +188,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-11-05-12@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:🏃 Course 30' facile
@@ -203,7 +203,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-11-06-13@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:💪 Renfo N1
@@ -218,7 +218,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-11-07-14@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:🏃 Course 40' facile
@@ -234,7 +234,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-11-08-15@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:🚴 Vélo 1h30
@@ -248,7 +248,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-11-09-16@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:💪 Renfo N1
@@ -263,24 +263,24 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-11-10-17@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:🏃 Course 6 km EF
 DESCRIPTION:Base\, semaine S3 : ~22 km\, ~0 m D+ au total.\n6 km en enduran
- ce fondamentale (65-75% FCmax) + 4 lignes droites.\nSi le pied (bord exter
- ne) se réveille : pas de course ce jour-là\, vélo à la place.\nPlan B 
- météo (pluie\, verglas\, nuit) : tapis de course en salle\, ou inverse a
- vec la séance vélo/renfo d'un autre jour.\n\nRègles de flexibilité : t
- u peux permuter les jours dans la semaine\, tant que (1) jamais 2 séances
-  dures d'affilée\, (2) pas de renfo la veille de la sortie longue\, (3) l
- e vélo peut toujours remplacer une course facile si le pied ou les jambes
-  tirent.
+ ce fondamentale + 4 lignes droites.\nAllure : EF : très facile\, 3-4/10\,
+  tu parles sans effort\, 65-75% FCmax\nSi le pied (bord externe) se révei
+ lle : pas de course ce jour-là\, vélo à la place.\nPlan B météo (plui
+ e\, verglas\, nuit) : tapis de course en salle\, ou inverse avec la séanc
+ e vélo/renfo d'un autre jour.\n\nRègles de flexibilité : tu peux permut
+ er les jours dans la semaine\, tant que (1) jamais 2 séances dures d'affi
+ lée\, (2) pas de renfo la veille de la sortie longue\, (3) le vélo peut 
+ toujours remplacer une course facile si le pied ou les jambes tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-11-11-18@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:🚴 Vélo 1h30-2h
@@ -294,7 +294,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-11-11-19@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:💪 Renfo B
@@ -310,7 +310,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-11-12-20@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:🏃 Course 6 km EF
@@ -325,7 +325,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-11-13-21@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:💪 Renfo N1
@@ -340,7 +340,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-11-14-22@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:🏃 Sortie longue 1h
@@ -357,7 +357,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-11-15-23@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:🚴 Vélo 1h30
@@ -371,7 +371,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-11-16-24@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:💪 Renfo N1
@@ -386,24 +386,24 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-11-17-25@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:🏃 Course 6 km EF
 DESCRIPTION:Base\, semaine S4 : ~26 km\, ~0 m D+ au total.\n6 km en enduran
- ce fondamentale (65-75% FCmax) + 4 lignes droites.\nSi le pied (bord exter
- ne) se réveille : pas de course ce jour-là\, vélo à la place.\nPlan B 
- météo (pluie\, verglas\, nuit) : tapis de course en salle\, ou inverse a
- vec la séance vélo/renfo d'un autre jour.\n\nRègles de flexibilité : t
- u peux permuter les jours dans la semaine\, tant que (1) jamais 2 séances
-  dures d'affilée\, (2) pas de renfo la veille de la sortie longue\, (3) l
- e vélo peut toujours remplacer une course facile si le pied ou les jambes
-  tirent.
+ ce fondamentale + 4 lignes droites.\nAllure : EF : très facile\, 3-4/10\,
+  tu parles sans effort\, 65-75% FCmax\nSi le pied (bord externe) se révei
+ lle : pas de course ce jour-là\, vélo à la place.\nPlan B météo (plui
+ e\, verglas\, nuit) : tapis de course en salle\, ou inverse avec la séanc
+ e vélo/renfo d'un autre jour.\n\nRègles de flexibilité : tu peux permut
+ er les jours dans la semaine\, tant que (1) jamais 2 séances dures d'affi
+ lée\, (2) pas de renfo la veille de la sortie longue\, (3) le vélo peut 
+ toujours remplacer une course facile si le pied ou les jambes tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-11-18-26@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:🚴 Vélo 1h30-2h
@@ -417,7 +417,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-11-18-27@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:💪 Renfo B
@@ -433,7 +433,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-11-19-28@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:🏃 Course 6 km EF
@@ -448,7 +448,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-11-20-29@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:💪 Renfo N1
@@ -463,7 +463,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-11-21-30@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:🏃 Sortie longue 1h10
@@ -480,7 +480,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-11-22-31@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:🏃 Course 5 km récup
@@ -496,7 +496,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-11-23-32@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:💪 Renfo N2
@@ -511,24 +511,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-11-24-33@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
-SUMMARY:🏃 Course 8 km EF
-DESCRIPTION:Base\, semaine S5 : ~30 km\, ~200 m D+ au total.\n8 km en endur
- ance fondamentale (65-75% FCmax) + 4 lignes droites.\nSi le pied (bord ext
- erne) se réveille : pas de course ce jour-là\, vélo à la place.\nPlan 
- B météo (pluie\, verglas\, nuit) : tapis de course en salle\, ou inverse
-  avec la séance vélo/renfo d'un autre jour.\n\nRègles de flexibilité :
-  tu peux permuter les jours dans la semaine\, tant que (1) jamais 2 séanc
- es dures d'affilée\, (2) pas de renfo la veille de la sortie longue\, (3)
-  le vélo peut toujours remplacer une course facile si le pied ou les jamb
- es tirent.
+SUMMARY:🏃 Fractionné 30/30
+DESCRIPTION:Base\, semaine S5 : ~30 km\, ~200 m D+ au total.\n15' échauffe
+ ment EF + 3 lignes droites\, puis 10 x 30"/30" (30" rapide\, 30" trot)\, p
+ uis 10' retour au calme EF.\nAllures : 30" à 1' rapide : allure 3-5 km\, 
+ 9/10\, relâché | EF : très facile\, 3-4/10\, tu parles sans effort\, 65
+ -75% FCmax\nLieu : plat (berges du Rhône\, parc de la Tête d'Or) ou pist
+ e. Pluie : tapis.\nSi le pied (bord externe) se réveille : pas de course 
+ ce jour-là\, vélo à la place.\nPlan B météo (pluie\, verglas\, nuit) 
+ : tapis de course en salle\, ou inverse avec la séance vélo/renfo d'un a
+ utre jour.\n\nRègles de flexibilité : tu peux permuter les jours dans la
+  semaine\, tant que (1) jamais 2 séances dures d'affilée\, (2) pas de re
+ nfo la veille de la sortie longue\, (3) le vélo peut toujours remplacer u
+ ne course facile si le pied ou les jambes tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-11-25-34@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:🚴 Vélo 1h30-2h
@@ -542,7 +545,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-11-25-35@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:💪 Renfo B
@@ -558,7 +561,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-11-26-36@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:🏃 Côtes 8 km
@@ -574,7 +577,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-11-27-37@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:💪 Renfo N2
@@ -589,7 +592,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-11-28-38@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:🏃 Sortie longue 1h15
@@ -606,7 +609,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-11-29-39@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:🚴 Vélo 1h30
@@ -620,7 +623,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-11-30-40@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:💪 Renfo N2
@@ -635,24 +638,25 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-12-01-41@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:🏃 Course 6 km EF
 DESCRIPTION:Base\, semaine S6 (allégée) : ~22 km\, ~100 m D+ au total.\n6
-  km en endurance fondamentale (65-75% FCmax) + 4 lignes droites.\nSi le pi
- ed (bord externe) se réveille : pas de course ce jour-là\, vélo à la p
- lace.\nPlan B météo (pluie\, verglas\, nuit) : tapis de course en salle\
- , ou inverse avec la séance vélo/renfo d'un autre jour.\n\nRègles de fl
- exibilité : tu peux permuter les jours dans la semaine\, tant que (1) jam
- ais 2 séances dures d'affilée\, (2) pas de renfo la veille de la sortie 
- longue\, (3) le vélo peut toujours remplacer une course facile si le pied
-  ou les jambes tirent.
+  km en endurance fondamentale + 4 lignes droites.\nAllure : EF : très fac
+ ile\, 3-4/10\, tu parles sans effort\, 65-75% FCmax\nSi le pied (bord exte
+ rne) se réveille : pas de course ce jour-là\, vélo à la place.\nPlan B
+  météo (pluie\, verglas\, nuit) : tapis de course en salle\, ou inverse 
+ avec la séance vélo/renfo d'un autre jour.\n\nRègles de flexibilité : 
+ tu peux permuter les jours dans la semaine\, tant que (1) jamais 2 séance
+ s dures d'affilée\, (2) pas de renfo la veille de la sortie longue\, (3) 
+ le vélo peut toujours remplacer une course facile si le pied ou les jambe
+ s tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-12-02-42@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:🚴 Vélo 1h30-2h
@@ -666,7 +670,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-12-02-43@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:💪 Renfo B
@@ -682,7 +686,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-12-03-44@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:🏃 Course 6 km EF
@@ -697,7 +701,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-12-04-45@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:💪 Renfo N2
@@ -712,7 +716,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-12-05-46@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:🏃 Sortie longue 1h
@@ -729,7 +733,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-12-06-47@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:🚴 Vélo 1h30
@@ -743,7 +747,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-12-07-48@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:💪 Renfo N2
@@ -758,24 +762,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-12-08-49@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
-SUMMARY:🏃 Course 8 km EF
-DESCRIPTION:Base\, semaine S7 : ~32 km\, ~300 m D+ au total.\n8 km en endur
- ance fondamentale (65-75% FCmax) + 4 lignes droites.\nSi le pied (bord ext
- erne) se réveille : pas de course ce jour-là\, vélo à la place.\nPlan 
- B météo (pluie\, verglas\, nuit) : tapis de course en salle\, ou inverse
-  avec la séance vélo/renfo d'un autre jour.\n\nRègles de flexibilité :
-  tu peux permuter les jours dans la semaine\, tant que (1) jamais 2 séanc
- es dures d'affilée\, (2) pas de renfo la veille de la sortie longue\, (3)
-  le vélo peut toujours remplacer une course facile si le pied ou les jamb
- es tirent.
+SUMMARY:🏃 Fractionné 30/30
+DESCRIPTION:Base\, semaine S7 : ~32 km\, ~300 m D+ au total.\n15' échauffe
+ ment EF + 3 lignes droites\, puis 12 x 30"/30"\, puis 10' retour au calme 
+ EF.\nAllures : 30" à 1' rapide : allure 3-5 km\, 9/10\, relâché | EF : 
+ très facile\, 3-4/10\, tu parles sans effort\, 65-75% FCmax\nLieu : plat 
+ (berges du Rhône\, parc de la Tête d'Or) ou piste. Pluie : tapis.\nSi le
+  pied (bord externe) se réveille : pas de course ce jour-là\, vélo à l
+ a place.\nPlan B météo (pluie\, verglas\, nuit) : tapis de course en sal
+ le\, ou inverse avec la séance vélo/renfo d'un autre jour.\n\nRègles de
+  flexibilité : tu peux permuter les jours dans la semaine\, tant que (1) 
+ jamais 2 séances dures d'affilée\, (2) pas de renfo la veille de la sort
+ ie longue\, (3) le vélo peut toujours remplacer une course facile si le p
+ ied ou les jambes tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-12-09-50@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:🚴 Vélo 1h30-2h
@@ -789,7 +796,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-12-09-51@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:💪 Renfo B
@@ -805,7 +812,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-12-10-52@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:🏃 Côtes 8 km
@@ -821,7 +828,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-12-11-53@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:💪 Renfo N2
@@ -836,7 +843,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-12-12-54@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:🏃 Sortie longue 1h20
@@ -853,7 +860,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-12-13-55@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:🏃 Course 5 km récup
@@ -869,7 +876,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-12-14-56@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 SUMMARY:💪 Renfo N2
@@ -884,24 +891,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-12-15-57@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
-SUMMARY:🏃 Course 9 km EF
-DESCRIPTION:Base\, semaine S8 : ~36 km\, ~400 m D+ au total.\n9 km en endur
- ance fondamentale (65-75% FCmax) + 4 lignes droites.\nSi le pied (bord ext
- erne) se réveille : pas de course ce jour-là\, vélo à la place.\nPlan 
- B météo (pluie\, verglas\, nuit) : tapis de course en salle\, ou inverse
-  avec la séance vélo/renfo d'un autre jour.\n\nRègles de flexibilité :
-  tu peux permuter les jours dans la semaine\, tant que (1) jamais 2 séanc
- es dures d'affilée\, (2) pas de renfo la veille de la sortie longue\, (3)
-  le vélo peut toujours remplacer une course facile si le pied ou les jamb
- es tirent.
+SUMMARY:🏃 Fractionné 30/30
+DESCRIPTION:Base\, semaine S8 : ~36 km\, ~400 m D+ au total.\n15' échauffe
+ ment EF + 3 lignes droites\, puis 2 séries de 8 x 30"/30"\, 3' trot entre
+  les séries\, puis 10' retour au calme EF.\nAllures : 30" à 1' rapide : 
+ allure 3-5 km\, 9/10\, relâché | EF : très facile\, 3-4/10\, tu parles 
+ sans effort\, 65-75% FCmax\nLieu : plat (berges du Rhône\, parc de la Tê
+ te d'Or) ou piste. Pluie : tapis.\nSi le pied (bord externe) se réveille 
+ : pas de course ce jour-là\, vélo à la place.\nPlan B météo (pluie\, 
+ verglas\, nuit) : tapis de course en salle\, ou inverse avec la séance v
+ élo/renfo d'un autre jour.\n\nRègles de flexibilité : tu peux permuter 
+ les jours dans la semaine\, tant que (1) jamais 2 séances dures d'affilé
+ e\, (2) pas de renfo la veille de la sortie longue\, (3) le vélo peut tou
+ jours remplacer une course facile si le pied ou les jambes tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-12-16-58@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:🚴 Vélo 1h30-2h
@@ -915,7 +925,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-12-16-59@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:💪 Renfo B
@@ -931,7 +941,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-12-17-60@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:🏃 Côtes 9 km
@@ -947,7 +957,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-12-18-61@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:💪 Renfo N2
@@ -962,7 +972,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-12-19-62@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:🏃 Sortie longue 1h30
@@ -979,7 +989,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-12-20-63@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:🏃 Course 5 km récup
@@ -995,7 +1005,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-12-21-64@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
 SUMMARY:💪 Renfo N2
@@ -1010,24 +1020,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-12-22-65@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
-SUMMARY:🏃 Course 10 km EF
-DESCRIPTION:Base\, semaine S9 : ~40 km\, ~600 m D+ au total.\n10 km en endu
- rance fondamentale (65-75% FCmax) + 4 lignes droites.\nSi le pied (bord ex
- terne) se réveille : pas de course ce jour-là\, vélo à la place.\nPlan
-  B météo (pluie\, verglas\, nuit) : tapis de course en salle\, ou invers
- e avec la séance vélo/renfo d'un autre jour.\n\nRègles de flexibilité 
- : tu peux permuter les jours dans la semaine\, tant que (1) jamais 2 séan
- ces dures d'affilée\, (2) pas de renfo la veille de la sortie longue\, (3
- ) le vélo peut toujours remplacer une course facile si le pied ou les jam
- bes tirent.
+SUMMARY:🏃 Fractionné 8 x 1'/1'
+DESCRIPTION:Base\, semaine S9 : ~40 km\, ~600 m D+ au total.\n15' échauffe
+ ment EF + 3 lignes droites\, puis 8 x 1' rapide / 1' trot\, puis 10' retou
+ r au calme EF.\nAllures : 30" à 1' rapide : allure 3-5 km\, 9/10\, relâc
+ hé | EF : très facile\, 3-4/10\, tu parles sans effort\, 65-75% FCmax\nL
+ ieu : plat (berges du Rhône\, parc de la Tête d'Or) ou piste. Pluie : ta
+ pis.\nSi le pied (bord externe) se réveille : pas de course ce jour-là\,
+  vélo à la place.\nPlan B météo (pluie\, verglas\, nuit) : tapis de co
+ urse en salle\, ou inverse avec la séance vélo/renfo d'un autre jour.\n\
+ nRègles de flexibilité : tu peux permuter les jours dans la semaine\, ta
+ nt que (1) jamais 2 séances dures d'affilée\, (2) pas de renfo la veille
+  de la sortie longue\, (3) le vélo peut toujours remplacer une course fac
+ ile si le pied ou les jambes tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-12-23-66@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:🚴 Vélo 1h30-2h
@@ -1041,7 +1054,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-12-23-67@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:💪 Renfo B
@@ -1057,7 +1070,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-12-24-68@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
 SUMMARY:🏃 Côtes 10 km
@@ -1073,7 +1086,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-12-25-69@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:💪 Renfo N2
@@ -1088,7 +1101,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-12-26-70@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
 SUMMARY:🏃 Sortie longue 1h40
@@ -1105,7 +1118,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-12-27-71@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
 SUMMARY:🏃 Course 6 km récup
@@ -1121,7 +1134,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-12-28-72@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:💪 Renfo N2
@@ -1136,24 +1149,25 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-12-29-73@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
 SUMMARY:🏃 Course 8 km EF
 DESCRIPTION:Base\, semaine S10 (allégée) : ~30 km\, ~300 m D+ au total.\n
- 8 km en endurance fondamentale (65-75% FCmax) + 4 lignes droites.\nSi le p
- ied (bord externe) se réveille : pas de course ce jour-là\, vélo à la 
- place.\nPlan B météo (pluie\, verglas\, nuit) : tapis de course en salle
- \, ou inverse avec la séance vélo/renfo d'un autre jour.\n\nRègles de f
- lexibilité : tu peux permuter les jours dans la semaine\, tant que (1) ja
- mais 2 séances dures d'affilée\, (2) pas de renfo la veille de la sortie
-  longue\, (3) le vélo peut toujours remplacer une course facile si le pie
- d ou les jambes tirent.
+ 8 km en endurance fondamentale + 4 lignes droites.\nAllure : EF : très fa
+ cile\, 3-4/10\, tu parles sans effort\, 65-75% FCmax\nSi le pied (bord ext
+ erne) se réveille : pas de course ce jour-là\, vélo à la place.\nPlan 
+ B météo (pluie\, verglas\, nuit) : tapis de course en salle\, ou inverse
+  avec la séance vélo/renfo d'un autre jour.\n\nRègles de flexibilité :
+  tu peux permuter les jours dans la semaine\, tant que (1) jamais 2 séanc
+ es dures d'affilée\, (2) pas de renfo la veille de la sortie longue\, (3)
+  le vélo peut toujours remplacer une course facile si le pied ou les jamb
+ es tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-12-30-74@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:🚴 Vélo 1h30-2h
@@ -1167,7 +1181,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-12-30-75@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:💪 Renfo B
@@ -1183,7 +1197,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2026-12-31-76@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:🏃 Course 8 km EF
@@ -1198,7 +1212,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-01-01-77@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:💪 Renfo N2
@@ -1213,7 +1227,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-01-02-78@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
 SUMMARY:🏃 Sortie longue 1h20
@@ -1230,7 +1244,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-01-03-79@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:🚴 Vélo 1h30
@@ -1244,7 +1258,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-01-04-80@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270105
 SUMMARY:💪 Renfo N2
@@ -1259,25 +1273,28 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-01-05-81@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270105
 DTEND;VALUE=DATE:20270106
-SUMMARY:🏃 Qualité : Côtes Fourvière 
+SUMMARY:🏃 Fractionné 10 x 400 m
 DESCRIPTION:Développement A\, semaine S11 : ~40 km\, ~1000 m D+ au total.\
- nCôtes Fourvière : 15' échauffement\, 8 x 1'30 en montée (effort soute
- nu)\, retour en trottinant/marchant\, 10' retour au calme.\nSi le pied (bo
- rd externe) se réveille : pas de course ce jour-là\, vélo à la place.\
- nPlan B météo (pluie\, verglas\, nuit) : tapis de course en salle\, ou i
- nverse avec la séance vélo/renfo d'un autre jour.\n\nRègles de flexibil
- ité : tu peux permuter les jours dans la semaine\, tant que (1) jamais 2 
- séances dures d'affilée\, (2) pas de renfo la veille de la sortie longue
- \, (3) le vélo peut toujours remplacer une course facile si le pied ou le
- s jambes tirent.
+ n15' échauffement EF + 3 lignes droites\, puis 10 x 400 m\, récup 1' tro
+ t\, à allure 5-10 km\, puis 10' retour au calme EF.\nAllures : allure 5-1
+ 0 km : 8-9/10\, 90-95% FCmax en fin de répétition | EF : très facile\, 
+ 3-4/10\, tu parles sans effort\, 65-75% FCmax\nLieu : plat (berges du Rhô
+ ne\, parc de la Tête d'Or) ou piste. Pluie : tapis.\nSi le pied (bord ext
+ erne) se réveille : pas de course ce jour-là\, vélo à la place.\nPlan 
+ B météo (pluie\, verglas\, nuit) : tapis de course en salle\, ou inverse
+  avec la séance vélo/renfo d'un autre jour.\n\nRègles de flexibilité :
+  tu peux permuter les jours dans la semaine\, tant que (1) jamais 2 séanc
+ es dures d'affilée\, (2) pas de renfo la veille de la sortie longue\, (3)
+  le vélo peut toujours remplacer une course facile si le pied ou les jamb
+ es tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-01-06-82@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:🚴 Vélo 1h30-2h
@@ -1292,24 +1309,26 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-01-07-83@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270107
 DTEND;VALUE=DATE:20270108
-SUMMARY:🏃 Course 9 km EF vallonné
-DESCRIPTION:9 km en endurance\, sur parcours vallonné (Fourvière\, Croix-
- Rousse). Inclut les descentes à partir de février.\nSi le pied (bord ext
- erne) se réveille : pas de course ce jour-là\, vélo à la place.\nPlan 
- B météo (pluie\, verglas\, nuit) : tapis de course en salle\, ou inverse
-  avec la séance vélo/renfo d'un autre jour.\n\nRègles de flexibilité :
-  tu peux permuter les jours dans la semaine\, tant que (1) jamais 2 séanc
- es dures d'affilée\, (2) pas de renfo la veille de la sortie longue\, (3)
-  le vélo peut toujours remplacer une course facile si le pied ou les jamb
- es tirent.
+SUMMARY:🏃 Qualité : Côtes Fourvière 
+DESCRIPTION:Côtes Fourvière : 15' échauffement EF\, 8 x 1'30 en montée 
+ (effort soutenu)\, retour en trottinant/marchant\, 10' retour au calme.\nS
+ i tu te sens fatigué après le fractionné de mardi\, fais plutôt 45' EF
+  vallonné.\nAllures : effort soutenu en montée (7-8/10)\, retour EF.\nSi
+  le pied (bord externe) se réveille : pas de course ce jour-là\, vélo 
+ à la place.\nPlan B météo (pluie\, verglas\, nuit) : tapis de course en
+  salle\, ou inverse avec la séance vélo/renfo d'un autre jour.\n\nRègle
+ s de flexibilité : tu peux permuter les jours dans la semaine\, tant que 
+ (1) jamais 2 séances dures d'affilée\, (2) pas de renfo la veille de la 
+ sortie longue\, (3) le vélo peut toujours remplacer une course facile si 
+ le pied ou les jambes tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-01-08-84@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 SUMMARY:💪 Renfo N2
@@ -1325,26 +1344,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-01-09-85@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
 SUMMARY:🏃 Sortie longue 1h45 (Samoëns ou Fourvière)
-DESCRIPTION:Sortie longue 1h45\, ~16 km. Samoëns : en montagne avec D+ (ra
- quettes ou ski de rando OK si neige). Lyon : boucles Fourvière (Choulans\
- , Gourguillon\, Chazeaux) ou tapis incliné.\nSi le pied (bord externe) se
-  réveille : pas de course ce jour-là\, vélo à la place.\nPlan B mété
- o (pluie\, verglas\, nuit) : tapis de course en salle\, ou inverse avec la
-  séance vélo/renfo d'un autre jour.\nSortie > 2h : teste ta stratégie a
- nti-crampes (500-1000 mg sodium/h\, 500-750 ml/h\, 60-90 g glucides/h). No
- te ce que tu prends et si crampes.\n\nRègles de flexibilité : tu peux pe
- rmuter les jours dans la semaine\, tant que (1) jamais 2 séances dures d'
- affilée\, (2) pas de renfo la veille de la sortie longue\, (3) le vélo p
- eut toujours remplacer une course facile si le pied ou les jambes tirent.
+DESCRIPTION:Sortie longue 1h45\, ~16 km\, en EF (allure libre dans les mont
+ ées\, marche si ça grimpe fort). Samoëns : en montagne avec D+ (raquett
+ es ou ski de rando OK si neige). Lyon : boucles Fourvière (Choulans\, Gou
+ rguillon\, Chazeaux) ou tapis incliné.\nSi le pied (bord externe) se rév
+ eille : pas de course ce jour-là\, vélo à la place.\nPlan B météo (pl
+ uie\, verglas\, nuit) : tapis de course en salle\, ou inverse avec la séa
+ nce vélo/renfo d'un autre jour.\nSortie > 2h : teste ta stratégie anti-c
+ rampes (500-1000 mg sodium/h\, 500-750 ml/h\, 60-90 g glucides/h). Note ce
+  que tu prends et si crampes.\n\nRègles de flexibilité : tu peux permute
+ r les jours dans la semaine\, tant que (1) jamais 2 séances dures d'affil
+ ée\, (2) pas de renfo la veille de la sortie longue\, (3) le vélo peut t
+ oujours remplacer une course facile si le pied ou les jambes tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-01-10-86@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:🏃 Course 7 km récup
@@ -1360,7 +1380,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-01-11-87@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270112
 SUMMARY:💪 Renfo N2
@@ -1375,25 +1395,28 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-01-12-88@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
-SUMMARY:🏃 Qualité : Côtes Fourvière 
+SUMMARY:🏃 Fractionné 6 x 800 m
 DESCRIPTION:Développement A\, semaine S12 : ~44 km\, ~1200 m D+ au total.\
- nCôtes Fourvière : 15' échauffement\, 8 x 1'30 en montée (effort soute
- nu)\, retour en trottinant/marchant\, 10' retour au calme.\nSi le pied (bo
- rd externe) se réveille : pas de course ce jour-là\, vélo à la place.\
- nPlan B météo (pluie\, verglas\, nuit) : tapis de course en salle\, ou i
- nverse avec la séance vélo/renfo d'un autre jour.\n\nRègles de flexibil
- ité : tu peux permuter les jours dans la semaine\, tant que (1) jamais 2 
- séances dures d'affilée\, (2) pas de renfo la veille de la sortie longue
- \, (3) le vélo peut toujours remplacer une course facile si le pied ou le
- s jambes tirent.
+ n15' échauffement EF + 3 lignes droites\, puis 6 x 800 m\, récup 1'30\, 
+ à allure 5-10 km\, puis 10' retour au calme EF.\nAllures : allure 5-10 km
+  : 8-9/10\, 90-95% FCmax en fin de répétition | EF : très facile\, 3-4/
+ 10\, tu parles sans effort\, 65-75% FCmax\nLieu : plat (berges du Rhône\,
+  parc de la Tête d'Or) ou piste. Pluie : tapis.\nSi le pied (bord externe
+ ) se réveille : pas de course ce jour-là\, vélo à la place.\nPlan B m
+ étéo (pluie\, verglas\, nuit) : tapis de course en salle\, ou inverse av
+ ec la séance vélo/renfo d'un autre jour.\n\nRègles de flexibilité : tu
+  peux permuter les jours dans la semaine\, tant que (1) jamais 2 séances 
+ dures d'affilée\, (2) pas de renfo la veille de la sortie longue\, (3) le
+  vélo peut toujours remplacer une course facile si le pied ou les jambes 
+ tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-01-13-89@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
 SUMMARY:🚴 Vélo 1h30-2h
@@ -1408,24 +1431,26 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-01-14-90@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270115
-SUMMARY:🏃 Course 10 km EF vallonné
-DESCRIPTION:10 km en endurance\, sur parcours vallonné (Fourvière\, Croix
- -Rousse). Inclut les descentes à partir de février.\nSi le pied (bord ex
- terne) se réveille : pas de course ce jour-là\, vélo à la place.\nPlan
-  B météo (pluie\, verglas\, nuit) : tapis de course en salle\, ou invers
- e avec la séance vélo/renfo d'un autre jour.\n\nRègles de flexibilité 
- : tu peux permuter les jours dans la semaine\, tant que (1) jamais 2 séan
- ces dures d'affilée\, (2) pas de renfo la veille de la sortie longue\, (3
- ) le vélo peut toujours remplacer une course facile si le pied ou les jam
- bes tirent.
+SUMMARY:🏃 Qualité : Côtes Fourvière 
+DESCRIPTION:Côtes Fourvière : 15' échauffement EF\, 8 x 1'30 en montée 
+ (effort soutenu)\, retour en trottinant/marchant\, 10' retour au calme.\nS
+ i tu te sens fatigué après le fractionné de mardi\, fais plutôt 45' EF
+  vallonné.\nAllures : effort soutenu en montée (7-8/10)\, retour EF.\nSi
+  le pied (bord externe) se réveille : pas de course ce jour-là\, vélo 
+ à la place.\nPlan B météo (pluie\, verglas\, nuit) : tapis de course en
+  salle\, ou inverse avec la séance vélo/renfo d'un autre jour.\n\nRègle
+ s de flexibilité : tu peux permuter les jours dans la semaine\, tant que 
+ (1) jamais 2 séances dures d'affilée\, (2) pas de renfo la veille de la 
+ sortie longue\, (3) le vélo peut toujours remplacer une course facile si 
+ le pied ou les jambes tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-01-15-91@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:💪 Renfo N2
@@ -1441,26 +1466,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-01-16-92@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 SUMMARY:🏃 Sortie longue 2h (Samoëns ou Fourvière)
-DESCRIPTION:Sortie longue 2h\, ~18 km. Samoëns : en montagne avec D+ (raqu
- ettes ou ski de rando OK si neige). Lyon : boucles Fourvière (Choulans\, 
- Gourguillon\, Chazeaux) ou tapis incliné.\nSi le pied (bord externe) se r
- éveille : pas de course ce jour-là\, vélo à la place.\nPlan B météo 
- (pluie\, verglas\, nuit) : tapis de course en salle\, ou inverse avec la s
- éance vélo/renfo d'un autre jour.\nSortie > 2h : teste ta stratégie ant
- i-crampes (500-1000 mg sodium/h\, 500-750 ml/h\, 60-90 g glucides/h). Note
-  ce que tu prends et si crampes.\n\nRègles de flexibilité : tu peux perm
- uter les jours dans la semaine\, tant que (1) jamais 2 séances dures d'af
- filée\, (2) pas de renfo la veille de la sortie longue\, (3) le vélo peu
- t toujours remplacer une course facile si le pied ou les jambes tirent.
+DESCRIPTION:Sortie longue 2h\, ~18 km\, en EF (allure libre dans les monté
+ es\, marche si ça grimpe fort). Samoëns : en montagne avec D+ (raquettes
+  ou ski de rando OK si neige). Lyon : boucles Fourvière (Choulans\, Gourg
+ uillon\, Chazeaux) ou tapis incliné.\nSi le pied (bord externe) se révei
+ lle : pas de course ce jour-là\, vélo à la place.\nPlan B météo (plui
+ e\, verglas\, nuit) : tapis de course en salle\, ou inverse avec la séanc
+ e vélo/renfo d'un autre jour.\nSortie > 2h : teste ta stratégie anti-cra
+ mpes (500-1000 mg sodium/h\, 500-750 ml/h\, 60-90 g glucides/h). Note ce q
+ ue tu prends et si crampes.\n\nRègles de flexibilité : tu peux permuter 
+ les jours dans la semaine\, tant que (1) jamais 2 séances dures d'affilé
+ e\, (2) pas de renfo la veille de la sortie longue\, (3) le vélo peut tou
+ jours remplacer une course facile si le pied ou les jambes tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-01-17-93@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 SUMMARY:🏃 Course 8 km récup
@@ -1476,7 +1502,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-01-18-94@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270118
 DTEND;VALUE=DATE:20270119
 SUMMARY:💪 Renfo N2
@@ -1491,25 +1517,28 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-01-19-95@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270119
 DTEND;VALUE=DATE:20270120
-SUMMARY:🏃 Qualité : Côtes Fourvière 
+SUMMARY:🏃 Fractionné 5 x 1000 m
 DESCRIPTION:Développement A\, semaine S13 : ~48 km\, ~1400 m D+ au total.\
- nCôtes Fourvière : 15' échauffement\, 8 x 1'30 en montée (effort soute
- nu)\, retour en trottinant/marchant\, 10' retour au calme.\nSi le pied (bo
- rd externe) se réveille : pas de course ce jour-là\, vélo à la place.\
- nPlan B météo (pluie\, verglas\, nuit) : tapis de course en salle\, ou i
- nverse avec la séance vélo/renfo d'un autre jour.\n\nRègles de flexibil
- ité : tu peux permuter les jours dans la semaine\, tant que (1) jamais 2 
- séances dures d'affilée\, (2) pas de renfo la veille de la sortie longue
- \, (3) le vélo peut toujours remplacer une course facile si le pied ou le
- s jambes tirent.
+ n15' échauffement EF + 3 lignes droites\, puis 5 x 1000 m\, récup 2'\, 
+ à allure 5-10 km\, puis 10' retour au calme EF.\nAllures : allure 5-10 km
+  : 8-9/10\, 90-95% FCmax en fin de répétition | EF : très facile\, 3-4/
+ 10\, tu parles sans effort\, 65-75% FCmax\nLieu : plat (berges du Rhône\,
+  parc de la Tête d'Or) ou piste. Pluie : tapis.\nSi le pied (bord externe
+ ) se réveille : pas de course ce jour-là\, vélo à la place.\nPlan B m
+ étéo (pluie\, verglas\, nuit) : tapis de course en salle\, ou inverse av
+ ec la séance vélo/renfo d'un autre jour.\n\nRègles de flexibilité : tu
+  peux permuter les jours dans la semaine\, tant que (1) jamais 2 séances 
+ dures d'affilée\, (2) pas de renfo la veille de la sortie longue\, (3) le
+  vélo peut toujours remplacer une course facile si le pied ou les jambes 
+ tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-01-20-96@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
 SUMMARY:🚴 Vélo 1h30-2h
@@ -1524,24 +1553,26 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-01-21-97@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270122
-SUMMARY:🏃 Course 11 km EF vallonné
-DESCRIPTION:11 km en endurance\, sur parcours vallonné (Fourvière\, Croix
- -Rousse). Inclut les descentes à partir de février.\nSi le pied (bord ex
- terne) se réveille : pas de course ce jour-là\, vélo à la place.\nPlan
-  B météo (pluie\, verglas\, nuit) : tapis de course en salle\, ou invers
- e avec la séance vélo/renfo d'un autre jour.\n\nRègles de flexibilité 
- : tu peux permuter les jours dans la semaine\, tant que (1) jamais 2 séan
- ces dures d'affilée\, (2) pas de renfo la veille de la sortie longue\, (3
- ) le vélo peut toujours remplacer une course facile si le pied ou les jam
- bes tirent.
+SUMMARY:🏃 Qualité : Côtes Fourvière 
+DESCRIPTION:Côtes Fourvière : 15' échauffement EF\, 8 x 1'30 en montée 
+ (effort soutenu)\, retour en trottinant/marchant\, 10' retour au calme.\nS
+ i tu te sens fatigué après le fractionné de mardi\, fais plutôt 45' EF
+  vallonné.\nAllures : effort soutenu en montée (7-8/10)\, retour EF.\nSi
+  le pied (bord externe) se réveille : pas de course ce jour-là\, vélo 
+ à la place.\nPlan B météo (pluie\, verglas\, nuit) : tapis de course en
+  salle\, ou inverse avec la séance vélo/renfo d'un autre jour.\n\nRègle
+ s de flexibilité : tu peux permuter les jours dans la semaine\, tant que 
+ (1) jamais 2 séances dures d'affilée\, (2) pas de renfo la veille de la 
+ sortie longue\, (3) le vélo peut toujours remplacer une course facile si 
+ le pied ou les jambes tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-01-22-98@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
 SUMMARY:💪 Renfo N2
@@ -1557,26 +1588,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-01-23-99@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 SUMMARY:🏃 Sortie longue 2h15 (Samoëns ou Fourvière)
-DESCRIPTION:Sortie longue 2h15\, ~19 km. Samoëns : en montagne avec D+ (ra
- quettes ou ski de rando OK si neige). Lyon : boucles Fourvière (Choulans\
- , Gourguillon\, Chazeaux) ou tapis incliné.\nSi le pied (bord externe) se
-  réveille : pas de course ce jour-là\, vélo à la place.\nPlan B mété
- o (pluie\, verglas\, nuit) : tapis de course en salle\, ou inverse avec la
-  séance vélo/renfo d'un autre jour.\nSortie > 2h : teste ta stratégie a
- nti-crampes (500-1000 mg sodium/h\, 500-750 ml/h\, 60-90 g glucides/h). No
- te ce que tu prends et si crampes.\n\nRègles de flexibilité : tu peux pe
- rmuter les jours dans la semaine\, tant que (1) jamais 2 séances dures d'
- affilée\, (2) pas de renfo la veille de la sortie longue\, (3) le vélo p
- eut toujours remplacer une course facile si le pied ou les jambes tirent.
+DESCRIPTION:Sortie longue 2h15\, ~19 km\, en EF (allure libre dans les mont
+ ées\, marche si ça grimpe fort). Samoëns : en montagne avec D+ (raquett
+ es ou ski de rando OK si neige). Lyon : boucles Fourvière (Choulans\, Gou
+ rguillon\, Chazeaux) ou tapis incliné.\nSi le pied (bord externe) se rév
+ eille : pas de course ce jour-là\, vélo à la place.\nPlan B météo (pl
+ uie\, verglas\, nuit) : tapis de course en salle\, ou inverse avec la séa
+ nce vélo/renfo d'un autre jour.\nSortie > 2h : teste ta stratégie anti-c
+ rampes (500-1000 mg sodium/h\, 500-750 ml/h\, 60-90 g glucides/h). Note ce
+  que tu prends et si crampes.\n\nRègles de flexibilité : tu peux permute
+ r les jours dans la semaine\, tant que (1) jamais 2 séances dures d'affil
+ ée\, (2) pas de renfo la veille de la sortie longue\, (3) le vélo peut t
+ oujours remplacer une course facile si le pied ou les jambes tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-01-24-100@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:🏃 Course 9 km récup
@@ -1592,7 +1624,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-01-25-101@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270125
 DTEND;VALUE=DATE:20270126
 SUMMARY:💪 Renfo N2
@@ -1607,25 +1639,28 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-01-26-102@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270126
 DTEND;VALUE=DATE:20270127
-SUMMARY:🏃 Qualité : Footing facile avec 6 lignes droites\, semaine all
- égée.
+SUMMARY:🏃 Fractionné court 8 x 30/30
 DESCRIPTION:Développement A (allégée)\, semaine S14 : ~34 km\, ~800 m D+
-  au total.\nFooting facile avec 6 lignes droites\, semaine allégée.\nSi 
- le pied (bord externe) se réveille : pas de course ce jour-là\, vélo à
-  la place.\nPlan B météo (pluie\, verglas\, nuit) : tapis de course en s
- alle\, ou inverse avec la séance vélo/renfo d'un autre jour.\n\nRègles 
- de flexibilité : tu peux permuter les jours dans la semaine\, tant que (1
- ) jamais 2 séances dures d'affilée\, (2) pas de renfo la veille de la so
- rtie longue\, (3) le vélo peut toujours remplacer une course facile si le
-  pied ou les jambes tirent.
+  au total.\n15' échauffement EF + 3 lignes droites\, puis 8 x 30"/30" pou
+ r garder de la vitesse sans fatigue\, puis 10' retour au calme EF.\nAllure
+ s : 30" à 1' rapide : allure 3-5 km\, 9/10\, relâché | EF : très facil
+ e\, 3-4/10\, tu parles sans effort\, 65-75% FCmax\nLieu : plat (berges du 
+ Rhône\, parc de la Tête d'Or) ou piste. Pluie : tapis.\nSi le pied (bord
+  externe) se réveille : pas de course ce jour-là\, vélo à la place.\nP
+ lan B météo (pluie\, verglas\, nuit) : tapis de course en salle\, ou inv
+ erse avec la séance vélo/renfo d'un autre jour.\n\nRègles de flexibilit
+ é : tu peux permuter les jours dans la semaine\, tant que (1) jamais 2 s
+ éances dures d'affilée\, (2) pas de renfo la veille de la sortie longue\
+ , (3) le vélo peut toujours remplacer une course facile si le pied ou les
+  jambes tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-01-27-103@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
 SUMMARY:🚴 Vélo 1h30-2h
@@ -1640,12 +1675,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-01-28-104@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270129
 SUMMARY:🏃 Course 7 km EF vallonné
-DESCRIPTION:7 km en endurance\, sur parcours vallonné (Fourvière\, Croix-
- Rousse). Inclut les descentes à partir de février.\nSi le pied (bord ext
+DESCRIPTION:7 km en endurance\, parcours vallonné.\nAllure : EF : très fa
+ cile\, 3-4/10\, tu parles sans effort\, 65-75% FCmax\nSi le pied (bord ext
  erne) se réveille : pas de course ce jour-là\, vélo à la place.\nPlan 
  B météo (pluie\, verglas\, nuit) : tapis de course en salle\, ou inverse
   avec la séance vélo/renfo d'un autre jour.\n\nRègles de flexibilité :
@@ -1657,7 +1692,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-01-29-105@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
 SUMMARY:💪 Renfo N2
@@ -1673,26 +1708,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-01-30-106@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:🏃 Sortie longue 1h30 (Samoëns ou Fourvière)
-DESCRIPTION:Sortie longue 1h30\, ~14 km. Samoëns : en montagne avec D+ (ra
- quettes ou ski de rando OK si neige). Lyon : boucles Fourvière (Choulans\
- , Gourguillon\, Chazeaux) ou tapis incliné.\nSi le pied (bord externe) se
-  réveille : pas de course ce jour-là\, vélo à la place.\nPlan B mété
- o (pluie\, verglas\, nuit) : tapis de course en salle\, ou inverse avec la
-  séance vélo/renfo d'un autre jour.\nSortie > 2h : teste ta stratégie a
- nti-crampes (500-1000 mg sodium/h\, 500-750 ml/h\, 60-90 g glucides/h). No
- te ce que tu prends et si crampes.\n\nRègles de flexibilité : tu peux pe
- rmuter les jours dans la semaine\, tant que (1) jamais 2 séances dures d'
- affilée\, (2) pas de renfo la veille de la sortie longue\, (3) le vélo p
- eut toujours remplacer une course facile si le pied ou les jambes tirent.
+DESCRIPTION:Sortie longue 1h30\, ~14 km\, en EF (allure libre dans les mont
+ ées\, marche si ça grimpe fort). Samoëns : en montagne avec D+ (raquett
+ es ou ski de rando OK si neige). Lyon : boucles Fourvière (Choulans\, Gou
+ rguillon\, Chazeaux) ou tapis incliné.\nSi le pied (bord externe) se rév
+ eille : pas de course ce jour-là\, vélo à la place.\nPlan B météo (pl
+ uie\, verglas\, nuit) : tapis de course en salle\, ou inverse avec la séa
+ nce vélo/renfo d'un autre jour.\nSortie > 2h : teste ta stratégie anti-c
+ rampes (500-1000 mg sodium/h\, 500-750 ml/h\, 60-90 g glucides/h). Note ce
+  que tu prends et si crampes.\n\nRègles de flexibilité : tu peux permute
+ r les jours dans la semaine\, tant que (1) jamais 2 séances dures d'affil
+ ée\, (2) pas de renfo la veille de la sortie longue\, (3) le vélo peut t
+ oujours remplacer une course facile si le pied ou les jambes tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-01-31-107@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:🏃 Course 6 km récup
@@ -1708,7 +1744,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-02-01-108@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270202
 SUMMARY:💪 Renfo N3
@@ -1724,25 +1760,28 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-02-02-109@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270202
 DTEND;VALUE=DATE:20270203
-SUMMARY:🏃 Qualité : Seuil 
+SUMMARY:🏃 Fractionné 6 x 1000 m
 DESCRIPTION:Développement B\, semaine S15 : ~48 km\, ~1400 m D+ au total.\
- nSeuil : 15' échauffement\, 3 x 8' à allure seuil (difficile mais tenabl
- e 1h)\, récup 2'\, 10' retour au calme. Plat ou tapis.\nSi le pied (bord 
- externe) se réveille : pas de course ce jour-là\, vélo à la place.\nPl
- an B météo (pluie\, verglas\, nuit) : tapis de course en salle\, ou inve
- rse avec la séance vélo/renfo d'un autre jour.\n\nRègles de flexibilit
- é : tu peux permuter les jours dans la semaine\, tant que (1) jamais 2 s
- éances dures d'affilée\, (2) pas de renfo la veille de la sortie longue\
- , (3) le vélo peut toujours remplacer une course facile si le pied ou les
-  jambes tirent.
+ n15' échauffement EF + 3 lignes droites\, puis 6 x 1000 m\, récup 1'30\,
+  à allure 5-10 km\, puis 10' retour au calme EF.\nAllures : allure 5-10 k
+ m : 8-9/10\, 90-95% FCmax en fin de répétition | EF : très facile\, 3-4
+ /10\, tu parles sans effort\, 65-75% FCmax\nLieu : plat (berges du Rhône\
+ , parc de la Tête d'Or) ou piste. Pluie : tapis.\nSi le pied (bord extern
+ e) se réveille : pas de course ce jour-là\, vélo à la place.\nPlan B m
+ étéo (pluie\, verglas\, nuit) : tapis de course en salle\, ou inverse av
+ ec la séance vélo/renfo d'un autre jour.\n\nRègles de flexibilité : tu
+  peux permuter les jours dans la semaine\, tant que (1) jamais 2 séances 
+ dures d'affilée\, (2) pas de renfo la veille de la sortie longue\, (3) le
+  vélo peut toujours remplacer une course facile si le pied ou les jambes 
+ tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-02-03-110@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
 SUMMARY:🚴 Vélo 1h30-2h
@@ -1757,24 +1796,26 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-02-04-111@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270204
 DTEND;VALUE=DATE:20270205
-SUMMARY:🏃 Course 11 km EF vallonné
-DESCRIPTION:11 km en endurance\, sur parcours vallonné (Fourvière\, Croix
- -Rousse). Inclut les descentes à partir de février.\nSi le pied (bord ex
- terne) se réveille : pas de course ce jour-là\, vélo à la place.\nPlan
-  B météo (pluie\, verglas\, nuit) : tapis de course en salle\, ou invers
- e avec la séance vélo/renfo d'un autre jour.\n\nRègles de flexibilité 
- : tu peux permuter les jours dans la semaine\, tant que (1) jamais 2 séan
- ces dures d'affilée\, (2) pas de renfo la veille de la sortie longue\, (3
- ) le vélo peut toujours remplacer une course facile si le pied ou les jam
- bes tirent.
+SUMMARY:🏃 Qualité : Seuil 
+DESCRIPTION:Seuil : 15' échauffement\, 3 x 8' à allure seuil (difficile m
+ ais tenable 1h)\, récup 2'\, 10' retour au calme. Plat ou tapis.\nSi tu t
+ e sens fatigué après le fractionné de mardi\, fais plutôt 45' EF vallo
+ nné.\nAllures : effort soutenu en montée (7-8/10)\, retour EF.\nSi le pi
+ ed (bord externe) se réveille : pas de course ce jour-là\, vélo à la p
+ lace.\nPlan B météo (pluie\, verglas\, nuit) : tapis de course en salle\
+ , ou inverse avec la séance vélo/renfo d'un autre jour.\n\nRègles de fl
+ exibilité : tu peux permuter les jours dans la semaine\, tant que (1) jam
+ ais 2 séances dures d'affilée\, (2) pas de renfo la veille de la sortie 
+ longue\, (3) le vélo peut toujours remplacer une course facile si le pied
+  ou les jambes tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-02-05-112@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
 SUMMARY:💪 Renfo N3
@@ -1791,26 +1832,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-02-06-113@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:🏃 Sortie longue 2h15 (Samoëns ou Fourvière)
-DESCRIPTION:Sortie longue 2h15\, ~19 km. Samoëns : en montagne avec D+ (ra
- quettes ou ski de rando OK si neige). Lyon : boucles Fourvière (Choulans\
- , Gourguillon\, Chazeaux) ou tapis incliné.\nSi le pied (bord externe) se
-  réveille : pas de course ce jour-là\, vélo à la place.\nPlan B mété
- o (pluie\, verglas\, nuit) : tapis de course en salle\, ou inverse avec la
-  séance vélo/renfo d'un autre jour.\nSortie > 2h : teste ta stratégie a
- nti-crampes (500-1000 mg sodium/h\, 500-750 ml/h\, 60-90 g glucides/h). No
- te ce que tu prends et si crampes.\n\nRègles de flexibilité : tu peux pe
- rmuter les jours dans la semaine\, tant que (1) jamais 2 séances dures d'
- affilée\, (2) pas de renfo la veille de la sortie longue\, (3) le vélo p
- eut toujours remplacer une course facile si le pied ou les jambes tirent.
+DESCRIPTION:Sortie longue 2h15\, ~19 km\, en EF (allure libre dans les mont
+ ées\, marche si ça grimpe fort). Samoëns : en montagne avec D+ (raquett
+ es ou ski de rando OK si neige). Lyon : boucles Fourvière (Choulans\, Gou
+ rguillon\, Chazeaux) ou tapis incliné.\nSi le pied (bord externe) se rév
+ eille : pas de course ce jour-là\, vélo à la place.\nPlan B météo (pl
+ uie\, verglas\, nuit) : tapis de course en salle\, ou inverse avec la séa
+ nce vélo/renfo d'un autre jour.\nSortie > 2h : teste ta stratégie anti-c
+ rampes (500-1000 mg sodium/h\, 500-750 ml/h\, 60-90 g glucides/h). Note ce
+  que tu prends et si crampes.\n\nRègles de flexibilité : tu peux permute
+ r les jours dans la semaine\, tant que (1) jamais 2 séances dures d'affil
+ ée\, (2) pas de renfo la veille de la sortie longue\, (3) le vélo peut t
+ oujours remplacer une course facile si le pied ou les jambes tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-02-07-114@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
 SUMMARY:🏃 Course 9 km récup
@@ -1826,7 +1868,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-02-08-115@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270208
 DTEND;VALUE=DATE:20270209
 SUMMARY:💪 Renfo N3
@@ -1842,25 +1884,28 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-02-09-116@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270209
 DTEND;VALUE=DATE:20270210
-SUMMARY:🏃 Qualité : Seuil 
+SUMMARY:🏃 Fractionné 4 x 1500 m
 DESCRIPTION:Développement B\, semaine S16 : ~52 km\, ~1600 m D+ au total.\
- nSeuil : 15' échauffement\, 3 x 8' à allure seuil (difficile mais tenabl
- e 1h)\, récup 2'\, 10' retour au calme. Plat ou tapis.\nSi le pied (bord 
- externe) se réveille : pas de course ce jour-là\, vélo à la place.\nPl
- an B météo (pluie\, verglas\, nuit) : tapis de course en salle\, ou inve
- rse avec la séance vélo/renfo d'un autre jour.\n\nRègles de flexibilit
- é : tu peux permuter les jours dans la semaine\, tant que (1) jamais 2 s
- éances dures d'affilée\, (2) pas de renfo la veille de la sortie longue\
- , (3) le vélo peut toujours remplacer une course facile si le pied ou les
-  jambes tirent.
+ n15' échauffement EF + 3 lignes droites\, puis 4 x 1500 m\, récup 2'\, 
+ à allure 5-10 km\, puis 10' retour au calme EF.\nAllures : allure 5-10 km
+  : 8-9/10\, 90-95% FCmax en fin de répétition | EF : très facile\, 3-4/
+ 10\, tu parles sans effort\, 65-75% FCmax\nLieu : plat (berges du Rhône\,
+  parc de la Tête d'Or) ou piste. Pluie : tapis.\nSi le pied (bord externe
+ ) se réveille : pas de course ce jour-là\, vélo à la place.\nPlan B m
+ étéo (pluie\, verglas\, nuit) : tapis de course en salle\, ou inverse av
+ ec la séance vélo/renfo d'un autre jour.\n\nRègles de flexibilité : tu
+  peux permuter les jours dans la semaine\, tant que (1) jamais 2 séances 
+ dures d'affilée\, (2) pas de renfo la veille de la sortie longue\, (3) le
+  vélo peut toujours remplacer une course facile si le pied ou les jambes 
+ tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-02-10-117@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270210
 DTEND;VALUE=DATE:20270211
 SUMMARY:🚴 Vélo 1h30-2h
@@ -1875,24 +1920,26 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-02-11-118@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270211
 DTEND;VALUE=DATE:20270212
-SUMMARY:🏃 Course 11 km EF vallonné
-DESCRIPTION:11 km en endurance\, sur parcours vallonné (Fourvière\, Croix
- -Rousse). Inclut les descentes à partir de février.\nSi le pied (bord ex
- terne) se réveille : pas de course ce jour-là\, vélo à la place.\nPlan
-  B météo (pluie\, verglas\, nuit) : tapis de course en salle\, ou invers
- e avec la séance vélo/renfo d'un autre jour.\n\nRègles de flexibilité 
- : tu peux permuter les jours dans la semaine\, tant que (1) jamais 2 séan
- ces dures d'affilée\, (2) pas de renfo la veille de la sortie longue\, (3
- ) le vélo peut toujours remplacer une course facile si le pied ou les jam
- bes tirent.
+SUMMARY:🏃 Qualité : Seuil 
+DESCRIPTION:Seuil : 15' échauffement\, 3 x 8' à allure seuil (difficile m
+ ais tenable 1h)\, récup 2'\, 10' retour au calme. Plat ou tapis.\nSi tu t
+ e sens fatigué après le fractionné de mardi\, fais plutôt 45' EF vallo
+ nné.\nAllures : effort soutenu en montée (7-8/10)\, retour EF.\nSi le pi
+ ed (bord externe) se réveille : pas de course ce jour-là\, vélo à la p
+ lace.\nPlan B météo (pluie\, verglas\, nuit) : tapis de course en salle\
+ , ou inverse avec la séance vélo/renfo d'un autre jour.\n\nRègles de fl
+ exibilité : tu peux permuter les jours dans la semaine\, tant que (1) jam
+ ais 2 séances dures d'affilée\, (2) pas de renfo la veille de la sortie 
+ longue\, (3) le vélo peut toujours remplacer une course facile si le pied
+  ou les jambes tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-02-12-119@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
 SUMMARY:💪 Renfo N3
@@ -1909,26 +1956,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-02-13-120@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
 SUMMARY:🏃 Sortie longue 2h30 (Samoëns ou Fourvière)
-DESCRIPTION:Sortie longue 2h30\, ~21 km. Samoëns : en montagne avec D+ (ra
- quettes ou ski de rando OK si neige). Lyon : boucles Fourvière (Choulans\
- , Gourguillon\, Chazeaux) ou tapis incliné.\nSi le pied (bord externe) se
-  réveille : pas de course ce jour-là\, vélo à la place.\nPlan B mété
- o (pluie\, verglas\, nuit) : tapis de course en salle\, ou inverse avec la
-  séance vélo/renfo d'un autre jour.\nSortie > 2h : teste ta stratégie a
- nti-crampes (500-1000 mg sodium/h\, 500-750 ml/h\, 60-90 g glucides/h). No
- te ce que tu prends et si crampes.\n\nRègles de flexibilité : tu peux pe
- rmuter les jours dans la semaine\, tant que (1) jamais 2 séances dures d'
- affilée\, (2) pas de renfo la veille de la sortie longue\, (3) le vélo p
- eut toujours remplacer une course facile si le pied ou les jambes tirent.
+DESCRIPTION:Sortie longue 2h30\, ~21 km\, en EF (allure libre dans les mont
+ ées\, marche si ça grimpe fort). Samoëns : en montagne avec D+ (raquett
+ es ou ski de rando OK si neige). Lyon : boucles Fourvière (Choulans\, Gou
+ rguillon\, Chazeaux) ou tapis incliné.\nSi le pied (bord externe) se rév
+ eille : pas de course ce jour-là\, vélo à la place.\nPlan B météo (pl
+ uie\, verglas\, nuit) : tapis de course en salle\, ou inverse avec la séa
+ nce vélo/renfo d'un autre jour.\nSortie > 2h : teste ta stratégie anti-c
+ rampes (500-1000 mg sodium/h\, 500-750 ml/h\, 60-90 g glucides/h). Note ce
+  que tu prends et si crampes.\n\nRègles de flexibilité : tu peux permute
+ r les jours dans la semaine\, tant que (1) jamais 2 séances dures d'affil
+ ée\, (2) pas de renfo la veille de la sortie longue\, (3) le vélo peut t
+ oujours remplacer une course facile si le pied ou les jambes tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-02-14-121@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
 SUMMARY:🏃 Course 10 km récup
@@ -1944,7 +1992,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-02-15-122@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270215
 DTEND;VALUE=DATE:20270216
 SUMMARY:💪 Renfo N3
@@ -1960,25 +2008,28 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-02-16-123@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270216
 DTEND;VALUE=DATE:20270217
-SUMMARY:🏃 Qualité : Seuil 
+SUMMARY:🏃 Fractionné 3 x 2000 m
 DESCRIPTION:Développement B\, semaine S17 : ~55 km\, ~1800 m D+ au total.\
- nSeuil : 15' échauffement\, 3 x 8' à allure seuil (difficile mais tenabl
- e 1h)\, récup 2'\, 10' retour au calme. Plat ou tapis.\nSi le pied (bord 
- externe) se réveille : pas de course ce jour-là\, vélo à la place.\nPl
- an B météo (pluie\, verglas\, nuit) : tapis de course en salle\, ou inve
- rse avec la séance vélo/renfo d'un autre jour.\n\nRègles de flexibilit
- é : tu peux permuter les jours dans la semaine\, tant que (1) jamais 2 s
- éances dures d'affilée\, (2) pas de renfo la veille de la sortie longue\
- , (3) le vélo peut toujours remplacer une course facile si le pied ou les
-  jambes tirent.
+ n15' échauffement EF + 3 lignes droites\, puis 3 x 2000 m\, récup 2'30\,
+  à allure 10 km\, puis 10' retour au calme EF.\nAllures : allure 5-10 km 
+ : 8-9/10\, 90-95% FCmax en fin de répétition | EF : très facile\, 3-4/1
+ 0\, tu parles sans effort\, 65-75% FCmax\nLieu : plat (berges du Rhône\, 
+ parc de la Tête d'Or) ou piste. Pluie : tapis.\nSi le pied (bord externe)
+  se réveille : pas de course ce jour-là\, vélo à la place.\nPlan B mé
+ téo (pluie\, verglas\, nuit) : tapis de course en salle\, ou inverse avec
+  la séance vélo/renfo d'un autre jour.\n\nRègles de flexibilité : tu p
+ eux permuter les jours dans la semaine\, tant que (1) jamais 2 séances du
+ res d'affilée\, (2) pas de renfo la veille de la sortie longue\, (3) le v
+ élo peut toujours remplacer une course facile si le pied ou les jambes ti
+ rent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-02-17-124@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270218
 SUMMARY:🚴 Vélo 1h30-2h
@@ -1993,24 +2044,26 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-02-18-125@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270218
 DTEND;VALUE=DATE:20270219
-SUMMARY:🏃 Course 12 km EF vallonné
-DESCRIPTION:12 km en endurance\, sur parcours vallonné (Fourvière\, Croix
- -Rousse). Inclut les descentes à partir de février.\nSi le pied (bord ex
- terne) se réveille : pas de course ce jour-là\, vélo à la place.\nPlan
-  B météo (pluie\, verglas\, nuit) : tapis de course en salle\, ou invers
- e avec la séance vélo/renfo d'un autre jour.\n\nRègles de flexibilité 
- : tu peux permuter les jours dans la semaine\, tant que (1) jamais 2 séan
- ces dures d'affilée\, (2) pas de renfo la veille de la sortie longue\, (3
- ) le vélo peut toujours remplacer une course facile si le pied ou les jam
- bes tirent.
+SUMMARY:🏃 Qualité : Seuil 
+DESCRIPTION:Seuil : 15' échauffement\, 3 x 8' à allure seuil (difficile m
+ ais tenable 1h)\, récup 2'\, 10' retour au calme. Plat ou tapis.\nSi tu t
+ e sens fatigué après le fractionné de mardi\, fais plutôt 45' EF vallo
+ nné.\nAllures : effort soutenu en montée (7-8/10)\, retour EF.\nSi le pi
+ ed (bord externe) se réveille : pas de course ce jour-là\, vélo à la p
+ lace.\nPlan B météo (pluie\, verglas\, nuit) : tapis de course en salle\
+ , ou inverse avec la séance vélo/renfo d'un autre jour.\n\nRègles de fl
+ exibilité : tu peux permuter les jours dans la semaine\, tant que (1) jam
+ ais 2 séances dures d'affilée\, (2) pas de renfo la veille de la sortie 
+ longue\, (3) le vélo peut toujours remplacer une course facile si le pied
+  ou les jambes tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-02-19-126@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270219
 DTEND;VALUE=DATE:20270220
 SUMMARY:💪 Renfo N3
@@ -2027,26 +2080,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-02-20-127@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
 SUMMARY:🏃 Sortie longue 2h45 (Samoëns ou Fourvière)
-DESCRIPTION:Sortie longue 2h45\, ~22 km. Samoëns : en montagne avec D+ (ra
- quettes ou ski de rando OK si neige). Lyon : boucles Fourvière (Choulans\
- , Gourguillon\, Chazeaux) ou tapis incliné.\nSi le pied (bord externe) se
-  réveille : pas de course ce jour-là\, vélo à la place.\nPlan B mété
- o (pluie\, verglas\, nuit) : tapis de course en salle\, ou inverse avec la
-  séance vélo/renfo d'un autre jour.\nSortie > 2h : teste ta stratégie a
- nti-crampes (500-1000 mg sodium/h\, 500-750 ml/h\, 60-90 g glucides/h). No
- te ce que tu prends et si crampes.\n\nRègles de flexibilité : tu peux pe
- rmuter les jours dans la semaine\, tant que (1) jamais 2 séances dures d'
- affilée\, (2) pas de renfo la veille de la sortie longue\, (3) le vélo p
- eut toujours remplacer une course facile si le pied ou les jambes tirent.
+DESCRIPTION:Sortie longue 2h45\, ~22 km\, en EF (allure libre dans les mont
+ ées\, marche si ça grimpe fort). Samoëns : en montagne avec D+ (raquett
+ es ou ski de rando OK si neige). Lyon : boucles Fourvière (Choulans\, Gou
+ rguillon\, Chazeaux) ou tapis incliné.\nSi le pied (bord externe) se rév
+ eille : pas de course ce jour-là\, vélo à la place.\nPlan B météo (pl
+ uie\, verglas\, nuit) : tapis de course en salle\, ou inverse avec la séa
+ nce vélo/renfo d'un autre jour.\nSortie > 2h : teste ta stratégie anti-c
+ rampes (500-1000 mg sodium/h\, 500-750 ml/h\, 60-90 g glucides/h). Note ce
+  que tu prends et si crampes.\n\nRègles de flexibilité : tu peux permute
+ r les jours dans la semaine\, tant que (1) jamais 2 séances dures d'affil
+ ée\, (2) pas de renfo la veille de la sortie longue\, (3) le vélo peut t
+ oujours remplacer une course facile si le pied ou les jambes tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-02-21-128@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
 SUMMARY:🏃 Course 10 km récup
@@ -2062,7 +2116,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-02-22-129@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270222
 DTEND;VALUE=DATE:20270223
 SUMMARY:💪 Renfo N3
@@ -2078,25 +2132,28 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-02-23-130@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270223
 DTEND;VALUE=DATE:20270224
-SUMMARY:🏃 Qualité : Footing facile avec 6 lignes droites\, semaine all
- égée.
+SUMMARY:🏃 Fractionné court 8 x 30/30
 DESCRIPTION:Développement B (allégée)\, semaine S18 : ~40 km\, ~1000 m D
- + au total.\nFooting facile avec 6 lignes droites\, semaine allégée.\nSi
-  le pied (bord externe) se réveille : pas de course ce jour-là\, vélo 
- à la place.\nPlan B météo (pluie\, verglas\, nuit) : tapis de course en
-  salle\, ou inverse avec la séance vélo/renfo d'un autre jour.\n\nRègle
- s de flexibilité : tu peux permuter les jours dans la semaine\, tant que 
- (1) jamais 2 séances dures d'affilée\, (2) pas de renfo la veille de la 
- sortie longue\, (3) le vélo peut toujours remplacer une course facile si 
- le pied ou les jambes tirent.
+ + au total.\n15' échauffement EF + 3 lignes droites\, puis 8 x 30"/30" po
+ ur garder de la vitesse sans fatigue\, puis 10' retour au calme EF.\nAllur
+ es : 30" à 1' rapide : allure 3-5 km\, 9/10\, relâché | EF : très faci
+ le\, 3-4/10\, tu parles sans effort\, 65-75% FCmax\nLieu : plat (berges du
+  Rhône\, parc de la Tête d'Or) ou piste. Pluie : tapis.\nSi le pied (bor
+ d externe) se réveille : pas de course ce jour-là\, vélo à la place.\n
+ Plan B météo (pluie\, verglas\, nuit) : tapis de course en salle\, ou in
+ verse avec la séance vélo/renfo d'un autre jour.\n\nRègles de flexibili
+ té : tu peux permuter les jours dans la semaine\, tant que (1) jamais 2 s
+ éances dures d'affilée\, (2) pas de renfo la veille de la sortie longue\
+ , (3) le vélo peut toujours remplacer une course facile si le pied ou les
+  jambes tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-02-24-131@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270225
 SUMMARY:🚴 Vélo 1h30-2h
@@ -2111,12 +2168,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-02-25-132@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270225
 DTEND;VALUE=DATE:20270226
 SUMMARY:🏃 Course 9 km EF vallonné
-DESCRIPTION:9 km en endurance\, sur parcours vallonné (Fourvière\, Croix-
- Rousse). Inclut les descentes à partir de février.\nSi le pied (bord ext
+DESCRIPTION:9 km en endurance\, parcours vallonné.\nAllure : EF : très fa
+ cile\, 3-4/10\, tu parles sans effort\, 65-75% FCmax\nSi le pied (bord ext
  erne) se réveille : pas de course ce jour-là\, vélo à la place.\nPlan 
  B météo (pluie\, verglas\, nuit) : tapis de course en salle\, ou inverse
   avec la séance vélo/renfo d'un autre jour.\n\nRègles de flexibilité :
@@ -2128,7 +2185,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-02-26-133@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270226
 DTEND;VALUE=DATE:20270227
 SUMMARY:💪 Renfo N3
@@ -2145,26 +2202,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-02-27-134@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
 SUMMARY:🏃 Sortie longue 2h (Samoëns ou Fourvière)
-DESCRIPTION:Sortie longue 2h\, ~16 km. Samoëns : en montagne avec D+ (raqu
- ettes ou ski de rando OK si neige). Lyon : boucles Fourvière (Choulans\, 
- Gourguillon\, Chazeaux) ou tapis incliné.\nSi le pied (bord externe) se r
- éveille : pas de course ce jour-là\, vélo à la place.\nPlan B météo 
- (pluie\, verglas\, nuit) : tapis de course en salle\, ou inverse avec la s
- éance vélo/renfo d'un autre jour.\nSortie > 2h : teste ta stratégie ant
- i-crampes (500-1000 mg sodium/h\, 500-750 ml/h\, 60-90 g glucides/h). Note
-  ce que tu prends et si crampes.\n\nRègles de flexibilité : tu peux perm
- uter les jours dans la semaine\, tant que (1) jamais 2 séances dures d'af
- filée\, (2) pas de renfo la veille de la sortie longue\, (3) le vélo peu
- t toujours remplacer une course facile si le pied ou les jambes tirent.
+DESCRIPTION:Sortie longue 2h\, ~16 km\, en EF (allure libre dans les monté
+ es\, marche si ça grimpe fort). Samoëns : en montagne avec D+ (raquettes
+  ou ski de rando OK si neige). Lyon : boucles Fourvière (Choulans\, Gourg
+ uillon\, Chazeaux) ou tapis incliné.\nSi le pied (bord externe) se révei
+ lle : pas de course ce jour-là\, vélo à la place.\nPlan B météo (plui
+ e\, verglas\, nuit) : tapis de course en salle\, ou inverse avec la séanc
+ e vélo/renfo d'un autre jour.\nSortie > 2h : teste ta stratégie anti-cra
+ mpes (500-1000 mg sodium/h\, 500-750 ml/h\, 60-90 g glucides/h). Note ce q
+ ue tu prends et si crampes.\n\nRègles de flexibilité : tu peux permuter 
+ les jours dans la semaine\, tant que (1) jamais 2 séances dures d'affilé
+ e\, (2) pas de renfo la veille de la sortie longue\, (3) le vélo peut tou
+ jours remplacer une course facile si le pied ou les jambes tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-02-28-135@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:🏃 Course 7 km récup
@@ -2180,7 +2238,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-03-01-136@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270302
 SUMMARY:💪 Renfo N3
@@ -2196,25 +2254,28 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-03-02-137@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270303
-SUMMARY:🏃 Qualité : Côtes longues 
+SUMMARY:🏃 Fractionné 6 x 1000 m
 DESCRIPTION:Développement C\, semaine S19 : ~55 km\, ~1800 m D+ au total.\
- nCôtes longues : 15' échauffement\, 4 x 5' en montée (Choulans/Gourguil
- lon ou tapis 10-15%)\, redescente en courant pour travailler les quadris\,
-  10' calme.\nSi le pied (bord externe) se réveille : pas de course ce jou
- r-là\, vélo à la place.\nPlan B météo (pluie\, verglas\, nuit) : tapi
- s de course en salle\, ou inverse avec la séance vélo/renfo d'un autre j
- our.\n\nRègles de flexibilité : tu peux permuter les jours dans la semai
- ne\, tant que (1) jamais 2 séances dures d'affilée\, (2) pas de renfo la
-  veille de la sortie longue\, (3) le vélo peut toujours remplacer une cou
- rse facile si le pied ou les jambes tirent.
+ n15' échauffement EF + 3 lignes droites\, puis 6 x 1000 m\, récup 1'30\,
+  à allure 10 km\, puis 10' retour au calme EF.\nAllures : allure 5-10 km 
+ : 8-9/10\, 90-95% FCmax en fin de répétition | EF : très facile\, 3-4/1
+ 0\, tu parles sans effort\, 65-75% FCmax\nLieu : plat (berges du Rhône\, 
+ parc de la Tête d'Or) ou piste. Pluie : tapis.\nSi le pied (bord externe)
+  se réveille : pas de course ce jour-là\, vélo à la place.\nPlan B mé
+ téo (pluie\, verglas\, nuit) : tapis de course en salle\, ou inverse avec
+  la séance vélo/renfo d'un autre jour.\n\nRègles de flexibilité : tu p
+ eux permuter les jours dans la semaine\, tant que (1) jamais 2 séances du
+ res d'affilée\, (2) pas de renfo la veille de la sortie longue\, (3) le v
+ élo peut toujours remplacer une course facile si le pied ou les jambes ti
+ rent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-03-03-138@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270304
 SUMMARY:🚴 Vélo 1h30-2h
@@ -2229,24 +2290,26 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-03-04-139@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270305
-SUMMARY:🏃 Course 12 km EF vallonné
-DESCRIPTION:12 km en endurance\, sur parcours vallonné (Fourvière\, Croix
- -Rousse). Inclut les descentes à partir de février.\nSi le pied (bord ex
- terne) se réveille : pas de course ce jour-là\, vélo à la place.\nPlan
-  B météo (pluie\, verglas\, nuit) : tapis de course en salle\, ou invers
- e avec la séance vélo/renfo d'un autre jour.\n\nRègles de flexibilité 
- : tu peux permuter les jours dans la semaine\, tant que (1) jamais 2 séan
- ces dures d'affilée\, (2) pas de renfo la veille de la sortie longue\, (3
- ) le vélo peut toujours remplacer une course facile si le pied ou les jam
- bes tirent.
+SUMMARY:🏃 Qualité : Côtes longues 
+DESCRIPTION:Côtes longues : 15' échauffement\, 4 x 5' en montée (Choulan
+ s/Gourguillon ou tapis 10-15%)\, redescente en courant pour travailler les
+  quadris\, 10' calme.\nSi tu te sens fatigué après le fractionné de mar
+ di\, fais plutôt 45' EF vallonné.\nAllures : effort soutenu en montée (
+ 7-8/10)\, retour EF.\nSi le pied (bord externe) se réveille : pas de cour
+ se ce jour-là\, vélo à la place.\nPlan B météo (pluie\, verglas\, nui
+ t) : tapis de course en salle\, ou inverse avec la séance vélo/renfo d'u
+ n autre jour.\n\nRègles de flexibilité : tu peux permuter les jours dans
+  la semaine\, tant que (1) jamais 2 séances dures d'affilée\, (2) pas de
+  renfo la veille de la sortie longue\, (3) le vélo peut toujours remplace
+ r une course facile si le pied ou les jambes tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-03-05-140@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270306
 SUMMARY:💪 Renfo N3
@@ -2263,26 +2326,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-03-06-141@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270307
 SUMMARY:🏃 Sortie longue 2h45 (Samoëns ou Fourvière)
-DESCRIPTION:Sortie longue 2h45\, ~22 km. Samoëns : en montagne avec D+ (ra
- quettes ou ski de rando OK si neige). Lyon : boucles Fourvière (Choulans\
- , Gourguillon\, Chazeaux) ou tapis incliné.\nSi le pied (bord externe) se
-  réveille : pas de course ce jour-là\, vélo à la place.\nPlan B mété
- o (pluie\, verglas\, nuit) : tapis de course en salle\, ou inverse avec la
-  séance vélo/renfo d'un autre jour.\nSortie > 2h : teste ta stratégie a
- nti-crampes (500-1000 mg sodium/h\, 500-750 ml/h\, 60-90 g glucides/h). No
- te ce que tu prends et si crampes.\n\nRègles de flexibilité : tu peux pe
- rmuter les jours dans la semaine\, tant que (1) jamais 2 séances dures d'
- affilée\, (2) pas de renfo la veille de la sortie longue\, (3) le vélo p
- eut toujours remplacer une course facile si le pied ou les jambes tirent.
+DESCRIPTION:Sortie longue 2h45\, ~22 km\, en EF (allure libre dans les mont
+ ées\, marche si ça grimpe fort). Samoëns : en montagne avec D+ (raquett
+ es ou ski de rando OK si neige). Lyon : boucles Fourvière (Choulans\, Gou
+ rguillon\, Chazeaux) ou tapis incliné.\nSi le pied (bord externe) se rév
+ eille : pas de course ce jour-là\, vélo à la place.\nPlan B météo (pl
+ uie\, verglas\, nuit) : tapis de course en salle\, ou inverse avec la séa
+ nce vélo/renfo d'un autre jour.\nSortie > 2h : teste ta stratégie anti-c
+ rampes (500-1000 mg sodium/h\, 500-750 ml/h\, 60-90 g glucides/h). Note ce
+  que tu prends et si crampes.\n\nRègles de flexibilité : tu peux permute
+ r les jours dans la semaine\, tant que (1) jamais 2 séances dures d'affil
+ ée\, (2) pas de renfo la veille de la sortie longue\, (3) le vélo peut t
+ oujours remplacer une course facile si le pied ou les jambes tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-03-07-142@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 SUMMARY:🏃 Course 10 km récup
@@ -2298,7 +2362,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-03-08-143@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270308
 DTEND;VALUE=DATE:20270309
 SUMMARY:💪 Renfo N3
@@ -2314,25 +2378,28 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-03-09-144@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270309
 DTEND;VALUE=DATE:20270310
-SUMMARY:🏃 Qualité : Côtes longues 
+SUMMARY:🏃 Fractionné 5 x 1200 m
 DESCRIPTION:Développement C\, semaine S20 : ~58 km\, ~2000 m D+ au total.\
- nCôtes longues : 15' échauffement\, 4 x 5' en montée (Choulans/Gourguil
- lon ou tapis 10-15%)\, redescente en courant pour travailler les quadris\,
-  10' calme.\nSi le pied (bord externe) se réveille : pas de course ce jou
- r-là\, vélo à la place.\nPlan B météo (pluie\, verglas\, nuit) : tapi
- s de course en salle\, ou inverse avec la séance vélo/renfo d'un autre j
- our.\n\nRègles de flexibilité : tu peux permuter les jours dans la semai
- ne\, tant que (1) jamais 2 séances dures d'affilée\, (2) pas de renfo la
-  veille de la sortie longue\, (3) le vélo peut toujours remplacer une cou
- rse facile si le pied ou les jambes tirent.
+ n15' échauffement EF + 3 lignes droites\, puis 5 x 1200 m\, récup 1'30\,
+  à allure 10 km\, puis 10' retour au calme EF.\nAllures : allure 5-10 km 
+ : 8-9/10\, 90-95% FCmax en fin de répétition | EF : très facile\, 3-4/1
+ 0\, tu parles sans effort\, 65-75% FCmax\nLieu : plat (berges du Rhône\, 
+ parc de la Tête d'Or) ou piste. Pluie : tapis.\nSi le pied (bord externe)
+  se réveille : pas de course ce jour-là\, vélo à la place.\nPlan B mé
+ téo (pluie\, verglas\, nuit) : tapis de course en salle\, ou inverse avec
+  la séance vélo/renfo d'un autre jour.\n\nRègles de flexibilité : tu p
+ eux permuter les jours dans la semaine\, tant que (1) jamais 2 séances du
+ res d'affilée\, (2) pas de renfo la veille de la sortie longue\, (3) le v
+ élo peut toujours remplacer une course facile si le pied ou les jambes ti
+ rent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-03-10-145@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270311
 SUMMARY:🚴 Vélo 1h30-2h
@@ -2347,24 +2414,26 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-03-11-146@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270311
 DTEND;VALUE=DATE:20270312
-SUMMARY:🏃 Course 13 km EF vallonné
-DESCRIPTION:13 km en endurance\, sur parcours vallonné (Fourvière\, Croix
- -Rousse). Inclut les descentes à partir de février.\nSi le pied (bord ex
- terne) se réveille : pas de course ce jour-là\, vélo à la place.\nPlan
-  B météo (pluie\, verglas\, nuit) : tapis de course en salle\, ou invers
- e avec la séance vélo/renfo d'un autre jour.\n\nRègles de flexibilité 
- : tu peux permuter les jours dans la semaine\, tant que (1) jamais 2 séan
- ces dures d'affilée\, (2) pas de renfo la veille de la sortie longue\, (3
- ) le vélo peut toujours remplacer une course facile si le pied ou les jam
- bes tirent.
+SUMMARY:🏃 Qualité : Côtes longues 
+DESCRIPTION:Côtes longues : 15' échauffement\, 4 x 5' en montée (Choulan
+ s/Gourguillon ou tapis 10-15%)\, redescente en courant pour travailler les
+  quadris\, 10' calme.\nSi tu te sens fatigué après le fractionné de mar
+ di\, fais plutôt 45' EF vallonné.\nAllures : effort soutenu en montée (
+ 7-8/10)\, retour EF.\nSi le pied (bord externe) se réveille : pas de cour
+ se ce jour-là\, vélo à la place.\nPlan B météo (pluie\, verglas\, nui
+ t) : tapis de course en salle\, ou inverse avec la séance vélo/renfo d'u
+ n autre jour.\n\nRègles de flexibilité : tu peux permuter les jours dans
+  la semaine\, tant que (1) jamais 2 séances dures d'affilée\, (2) pas de
+  renfo la veille de la sortie longue\, (3) le vélo peut toujours remplace
+ r une course facile si le pied ou les jambes tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-03-12-147@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270312
 DTEND;VALUE=DATE:20270313
 SUMMARY:💪 Renfo N3
@@ -2381,26 +2450,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-03-13-148@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
 SUMMARY:🏃 Sortie longue 3h (Samoëns ou Fourvière)
-DESCRIPTION:Sortie longue 3h\, ~23 km. Samoëns : en montagne avec D+ (raqu
- ettes ou ski de rando OK si neige). Lyon : boucles Fourvière (Choulans\, 
- Gourguillon\, Chazeaux) ou tapis incliné.\nSi le pied (bord externe) se r
- éveille : pas de course ce jour-là\, vélo à la place.\nPlan B météo 
- (pluie\, verglas\, nuit) : tapis de course en salle\, ou inverse avec la s
- éance vélo/renfo d'un autre jour.\nSortie > 2h : teste ta stratégie ant
- i-crampes (500-1000 mg sodium/h\, 500-750 ml/h\, 60-90 g glucides/h). Note
-  ce que tu prends et si crampes.\n\nRègles de flexibilité : tu peux perm
- uter les jours dans la semaine\, tant que (1) jamais 2 séances dures d'af
- filée\, (2) pas de renfo la veille de la sortie longue\, (3) le vélo peu
- t toujours remplacer une course facile si le pied ou les jambes tirent.
+DESCRIPTION:Sortie longue 3h\, ~23 km\, en EF (allure libre dans les monté
+ es\, marche si ça grimpe fort). Samoëns : en montagne avec D+ (raquettes
+  ou ski de rando OK si neige). Lyon : boucles Fourvière (Choulans\, Gourg
+ uillon\, Chazeaux) ou tapis incliné.\nSi le pied (bord externe) se révei
+ lle : pas de course ce jour-là\, vélo à la place.\nPlan B météo (plui
+ e\, verglas\, nuit) : tapis de course en salle\, ou inverse avec la séanc
+ e vélo/renfo d'un autre jour.\nSortie > 2h : teste ta stratégie anti-cra
+ mpes (500-1000 mg sodium/h\, 500-750 ml/h\, 60-90 g glucides/h). Note ce q
+ ue tu prends et si crampes.\n\nRègles de flexibilité : tu peux permuter 
+ les jours dans la semaine\, tant que (1) jamais 2 séances dures d'affilé
+ e\, (2) pas de renfo la veille de la sortie longue\, (3) le vélo peut tou
+ jours remplacer une course facile si le pied ou les jambes tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-03-14-149@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
 SUMMARY:🏃 Course 10 km récup
@@ -2416,7 +2486,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-03-15-150@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270316
 SUMMARY:💪 Renfo N3
@@ -2432,25 +2502,28 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-03-16-151@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270316
 DTEND;VALUE=DATE:20270317
-SUMMARY:🏃 Qualité : Côtes longues 
+SUMMARY:🏃 Fractionné 4 x 2000 m
 DESCRIPTION:Développement C\, semaine S21 : ~60 km\, ~2200 m D+ au total.\
- nCôtes longues : 15' échauffement\, 4 x 5' en montée (Choulans/Gourguil
- lon ou tapis 10-15%)\, redescente en courant pour travailler les quadris\,
-  10' calme.\nSi le pied (bord externe) se réveille : pas de course ce jou
- r-là\, vélo à la place.\nPlan B météo (pluie\, verglas\, nuit) : tapi
- s de course en salle\, ou inverse avec la séance vélo/renfo d'un autre j
- our.\n\nRègles de flexibilité : tu peux permuter les jours dans la semai
- ne\, tant que (1) jamais 2 séances dures d'affilée\, (2) pas de renfo la
-  veille de la sortie longue\, (3) le vélo peut toujours remplacer une cou
- rse facile si le pied ou les jambes tirent.
+ n15' échauffement EF + 3 lignes droites\, puis 4 x 2000 m\, récup 2'\, 
+ à allure 10 km\, puis 10' retour au calme EF.\nAllures : allure 5-10 km :
+  8-9/10\, 90-95% FCmax en fin de répétition | EF : très facile\, 3-4/10
+ \, tu parles sans effort\, 65-75% FCmax\nLieu : plat (berges du Rhône\, p
+ arc de la Tête d'Or) ou piste. Pluie : tapis.\nSi le pied (bord externe) 
+ se réveille : pas de course ce jour-là\, vélo à la place.\nPlan B mét
+ éo (pluie\, verglas\, nuit) : tapis de course en salle\, ou inverse avec 
+ la séance vélo/renfo d'un autre jour.\n\nRègles de flexibilité : tu pe
+ ux permuter les jours dans la semaine\, tant que (1) jamais 2 séances dur
+ es d'affilée\, (2) pas de renfo la veille de la sortie longue\, (3) le v
+ élo peut toujours remplacer une course facile si le pied ou les jambes ti
+ rent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-03-17-152@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270318
 SUMMARY:🚴 Vélo 1h30-2h
@@ -2465,24 +2538,26 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-03-18-153@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270318
 DTEND;VALUE=DATE:20270319
-SUMMARY:🏃 Course 13 km EF vallonné
-DESCRIPTION:13 km en endurance\, sur parcours vallonné (Fourvière\, Croix
- -Rousse). Inclut les descentes à partir de février.\nSi le pied (bord ex
- terne) se réveille : pas de course ce jour-là\, vélo à la place.\nPlan
-  B météo (pluie\, verglas\, nuit) : tapis de course en salle\, ou invers
- e avec la séance vélo/renfo d'un autre jour.\n\nRègles de flexibilité 
- : tu peux permuter les jours dans la semaine\, tant que (1) jamais 2 séan
- ces dures d'affilée\, (2) pas de renfo la veille de la sortie longue\, (3
- ) le vélo peut toujours remplacer une course facile si le pied ou les jam
- bes tirent.
+SUMMARY:🏃 Qualité : Côtes longues 
+DESCRIPTION:Côtes longues : 15' échauffement\, 4 x 5' en montée (Choulan
+ s/Gourguillon ou tapis 10-15%)\, redescente en courant pour travailler les
+  quadris\, 10' calme.\nSi tu te sens fatigué après le fractionné de mar
+ di\, fais plutôt 45' EF vallonné.\nAllures : effort soutenu en montée (
+ 7-8/10)\, retour EF.\nSi le pied (bord externe) se réveille : pas de cour
+ se ce jour-là\, vélo à la place.\nPlan B météo (pluie\, verglas\, nui
+ t) : tapis de course en salle\, ou inverse avec la séance vélo/renfo d'u
+ n autre jour.\n\nRègles de flexibilité : tu peux permuter les jours dans
+  la semaine\, tant que (1) jamais 2 séances dures d'affilée\, (2) pas de
+  renfo la veille de la sortie longue\, (3) le vélo peut toujours remplace
+ r une course facile si le pied ou les jambes tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-03-19-154@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
 SUMMARY:💪 Renfo N3
@@ -2499,26 +2574,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-03-20-155@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
 SUMMARY:🏃 Sortie longue 3h15 (Samoëns ou Fourvière)
-DESCRIPTION:Sortie longue 3h15\, ~24 km. Samoëns : en montagne avec D+ (ra
- quettes ou ski de rando OK si neige). Lyon : boucles Fourvière (Choulans\
- , Gourguillon\, Chazeaux) ou tapis incliné.\nSi le pied (bord externe) se
-  réveille : pas de course ce jour-là\, vélo à la place.\nPlan B mété
- o (pluie\, verglas\, nuit) : tapis de course en salle\, ou inverse avec la
-  séance vélo/renfo d'un autre jour.\nSortie > 2h : teste ta stratégie a
- nti-crampes (500-1000 mg sodium/h\, 500-750 ml/h\, 60-90 g glucides/h). No
- te ce que tu prends et si crampes.\n\nRègles de flexibilité : tu peux pe
- rmuter les jours dans la semaine\, tant que (1) jamais 2 séances dures d'
- affilée\, (2) pas de renfo la veille de la sortie longue\, (3) le vélo p
- eut toujours remplacer une course facile si le pied ou les jambes tirent.
+DESCRIPTION:Sortie longue 3h15\, ~24 km\, en EF (allure libre dans les mont
+ ées\, marche si ça grimpe fort). Samoëns : en montagne avec D+ (raquett
+ es ou ski de rando OK si neige). Lyon : boucles Fourvière (Choulans\, Gou
+ rguillon\, Chazeaux) ou tapis incliné.\nSi le pied (bord externe) se rév
+ eille : pas de course ce jour-là\, vélo à la place.\nPlan B météo (pl
+ uie\, verglas\, nuit) : tapis de course en salle\, ou inverse avec la séa
+ nce vélo/renfo d'un autre jour.\nSortie > 2h : teste ta stratégie anti-c
+ rampes (500-1000 mg sodium/h\, 500-750 ml/h\, 60-90 g glucides/h). Note ce
+  que tu prends et si crampes.\n\nRègles de flexibilité : tu peux permute
+ r les jours dans la semaine\, tant que (1) jamais 2 séances dures d'affil
+ ée\, (2) pas de renfo la veille de la sortie longue\, (3) le vélo peut t
+ oujours remplacer une course facile si le pied ou les jambes tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-03-21-156@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 SUMMARY:🏃 Course 11 km récup
@@ -2534,7 +2610,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-03-22-157@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270322
 DTEND;VALUE=DATE:20270323
 SUMMARY:💪 Renfo N3
@@ -2550,25 +2626,28 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-03-23-158@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270323
 DTEND;VALUE=DATE:20270324
-SUMMARY:🏃 Qualité : Footing facile avec 6 lignes droites\, semaine all
- égée.
+SUMMARY:🏃 Fractionné court 8 x 30/30
 DESCRIPTION:Développement C (allégée)\, semaine S22 : ~45 km\, ~1200 m D
- + au total.\nFooting facile avec 6 lignes droites\, semaine allégée.\nSi
-  le pied (bord externe) se réveille : pas de course ce jour-là\, vélo 
- à la place.\nPlan B météo (pluie\, verglas\, nuit) : tapis de course en
-  salle\, ou inverse avec la séance vélo/renfo d'un autre jour.\n\nRègle
- s de flexibilité : tu peux permuter les jours dans la semaine\, tant que 
- (1) jamais 2 séances dures d'affilée\, (2) pas de renfo la veille de la 
- sortie longue\, (3) le vélo peut toujours remplacer une course facile si 
- le pied ou les jambes tirent.
+ + au total.\n15' échauffement EF + 3 lignes droites\, puis 8 x 30"/30" po
+ ur garder de la vitesse sans fatigue\, puis 10' retour au calme EF.\nAllur
+ es : 30" à 1' rapide : allure 3-5 km\, 9/10\, relâché | EF : très faci
+ le\, 3-4/10\, tu parles sans effort\, 65-75% FCmax\nLieu : plat (berges du
+  Rhône\, parc de la Tête d'Or) ou piste. Pluie : tapis.\nSi le pied (bor
+ d externe) se réveille : pas de course ce jour-là\, vélo à la place.\n
+ Plan B météo (pluie\, verglas\, nuit) : tapis de course en salle\, ou in
+ verse avec la séance vélo/renfo d'un autre jour.\n\nRègles de flexibili
+ té : tu peux permuter les jours dans la semaine\, tant que (1) jamais 2 s
+ éances dures d'affilée\, (2) pas de renfo la veille de la sortie longue\
+ , (3) le vélo peut toujours remplacer une course facile si le pied ou les
+  jambes tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-03-24-159@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270324
 DTEND;VALUE=DATE:20270325
 SUMMARY:🚴 Vélo 1h30-2h
@@ -2583,12 +2662,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-03-25-160@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270325
 DTEND;VALUE=DATE:20270326
 SUMMARY:🏃 Course 10 km EF vallonné
-DESCRIPTION:10 km en endurance\, sur parcours vallonné (Fourvière\, Croix
- -Rousse). Inclut les descentes à partir de février.\nSi le pied (bord ex
+DESCRIPTION:10 km en endurance\, parcours vallonné.\nAllure : EF : très f
+ acile\, 3-4/10\, tu parles sans effort\, 65-75% FCmax\nSi le pied (bord ex
  terne) se réveille : pas de course ce jour-là\, vélo à la place.\nPlan
   B météo (pluie\, verglas\, nuit) : tapis de course en salle\, ou invers
  e avec la séance vélo/renfo d'un autre jour.\n\nRègles de flexibilité 
@@ -2600,7 +2679,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-03-26-161@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270327
 SUMMARY:💪 Renfo N3
@@ -2617,26 +2696,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-03-27-162@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270328
 SUMMARY:🏃 Sortie longue 2h15 (Samoëns ou Fourvière)
-DESCRIPTION:Sortie longue 2h15\, ~18 km. Samoëns : en montagne avec D+ (ra
- quettes ou ski de rando OK si neige). Lyon : boucles Fourvière (Choulans\
- , Gourguillon\, Chazeaux) ou tapis incliné.\nSi le pied (bord externe) se
-  réveille : pas de course ce jour-là\, vélo à la place.\nPlan B mété
- o (pluie\, verglas\, nuit) : tapis de course en salle\, ou inverse avec la
-  séance vélo/renfo d'un autre jour.\nSortie > 2h : teste ta stratégie a
- nti-crampes (500-1000 mg sodium/h\, 500-750 ml/h\, 60-90 g glucides/h). No
- te ce que tu prends et si crampes.\n\nRègles de flexibilité : tu peux pe
- rmuter les jours dans la semaine\, tant que (1) jamais 2 séances dures d'
- affilée\, (2) pas de renfo la veille de la sortie longue\, (3) le vélo p
- eut toujours remplacer une course facile si le pied ou les jambes tirent.
+DESCRIPTION:Sortie longue 2h15\, ~18 km\, en EF (allure libre dans les mont
+ ées\, marche si ça grimpe fort). Samoëns : en montagne avec D+ (raquett
+ es ou ski de rando OK si neige). Lyon : boucles Fourvière (Choulans\, Gou
+ rguillon\, Chazeaux) ou tapis incliné.\nSi le pied (bord externe) se rév
+ eille : pas de course ce jour-là\, vélo à la place.\nPlan B météo (pl
+ uie\, verglas\, nuit) : tapis de course en salle\, ou inverse avec la séa
+ nce vélo/renfo d'un autre jour.\nSortie > 2h : teste ta stratégie anti-c
+ rampes (500-1000 mg sodium/h\, 500-750 ml/h\, 60-90 g glucides/h). Note ce
+  que tu prends et si crampes.\n\nRègles de flexibilité : tu peux permute
+ r les jours dans la semaine\, tant que (1) jamais 2 séances dures d'affil
+ ée\, (2) pas de renfo la veille de la sortie longue\, (3) le vélo peut t
+ oujours remplacer une course facile si le pied ou les jambes tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-03-28-163@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
 SUMMARY:🏃 Course 8 km récup
@@ -2652,7 +2732,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-03-29-164@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270329
 DTEND;VALUE=DATE:20270330
 SUMMARY:💪 Renfo N3
@@ -2668,10 +2748,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-03-30-165@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270330
 DTEND;VALUE=DATE:20270331
-SUMMARY:🏃 Qualité : Côtes longues + marche active 
+SUMMARY:🏃 Côtes spécifiques
 DESCRIPTION:Spécifique D\, semaine S23 : ~55 km\, ~2200 m D+ au total.\nC
  ôtes longues + marche active : 4 x 6' en montée (alterner course / march
  e rapide avec bâtons)\, descentes courues.\nSi le pied (bord externe) se 
@@ -2686,7 +2766,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-03-31-166@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270401
 SUMMARY:🚴 Vélo 1h30
@@ -2701,24 +2781,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-04-01-167@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270401
 DTEND;VALUE=DATE:20270402
-SUMMARY:🏃 Course 12 km EF vallonné
-DESCRIPTION:12 km en endurance\, sur parcours vallonné (Fourvière\, Croix
- -Rousse). Inclut les descentes à partir de février.\nSi le pied (bord ex
- terne) se réveille : pas de course ce jour-là\, vélo à la place.\nPlan
-  B météo (pluie\, verglas\, nuit) : tapis de course en salle\, ou invers
- e avec la séance vélo/renfo d'un autre jour.\n\nRègles de flexibilité 
- : tu peux permuter les jours dans la semaine\, tant que (1) jamais 2 séan
- ces dures d'affilée\, (2) pas de renfo la veille de la sortie longue\, (3
- ) le vélo peut toujours remplacer une course facile si le pied ou les jam
- bes tirent.
+SUMMARY:🏃 Seuil 2 x 15'
+DESCRIPTION:15' échauffement EF + 3 lignes droites\, puis 2 x 15' allure s
+ euil\, récup 3'\, puis 10' retour au calme EF.\nAllures : allure seuil (s
+ emi-marathon) : 7/10\, 85-90% FCmax\, quelques mots seulement | EF : très
+  facile\, 3-4/10\, tu parles sans effort\, 65-75% FCmax\nLieu : plat (berg
+ es du Rhône\, parc de la Tête d'Or) ou piste. Pluie : tapis.\nSi le pied
+  (bord externe) se réveille : pas de course ce jour-là\, vélo à la pla
+ ce.\nPlan B météo (pluie\, verglas\, nuit) : tapis de course en salle\, 
+ ou inverse avec la séance vélo/renfo d'un autre jour.\n\nRègles de flex
+ ibilité : tu peux permuter les jours dans la semaine\, tant que (1) jamai
+ s 2 séances dures d'affilée\, (2) pas de renfo la veille de la sortie lo
+ ngue\, (3) le vélo peut toujours remplacer une course facile si le pied o
+ u les jambes tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-04-02-168@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270402
 DTEND;VALUE=DATE:20270403
 SUMMARY:💪 Renfo N3
@@ -2735,26 +2818,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-04-03-169@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270403
 DTEND;VALUE=DATE:20270404
 SUMMARY:🏃 Sortie longue 3h montagne
-DESCRIPTION:Sortie longue 3h\, ~22 km. Samoëns : en montagne avec D+ (raqu
- ettes ou ski de rando OK si neige). Lyon : boucles Fourvière (Choulans\, 
- Gourguillon\, Chazeaux) ou tapis incliné.\nSi le pied (bord externe) se r
- éveille : pas de course ce jour-là\, vélo à la place.\nPlan B météo 
- (pluie\, verglas\, nuit) : tapis de course en salle\, ou inverse avec la s
- éance vélo/renfo d'un autre jour.\nSortie > 2h : teste ta stratégie ant
- i-crampes (500-1000 mg sodium/h\, 500-750 ml/h\, 60-90 g glucides/h). Note
-  ce que tu prends et si crampes.\n\nRègles de flexibilité : tu peux perm
- uter les jours dans la semaine\, tant que (1) jamais 2 séances dures d'af
- filée\, (2) pas de renfo la veille de la sortie longue\, (3) le vélo peu
- t toujours remplacer une course facile si le pied ou les jambes tirent.
+DESCRIPTION:Sortie longue 3h\, ~22 km\, en EF (allure libre dans les monté
+ es\, marche si ça grimpe fort). Samoëns : en montagne avec D+ (raquettes
+  ou ski de rando OK si neige). Lyon : boucles Fourvière (Choulans\, Gourg
+ uillon\, Chazeaux) ou tapis incliné.\nSi le pied (bord externe) se révei
+ lle : pas de course ce jour-là\, vélo à la place.\nPlan B météo (plui
+ e\, verglas\, nuit) : tapis de course en salle\, ou inverse avec la séanc
+ e vélo/renfo d'un autre jour.\nSortie > 2h : teste ta stratégie anti-cra
+ mpes (500-1000 mg sodium/h\, 500-750 ml/h\, 60-90 g glucides/h). Note ce q
+ ue tu prends et si crampes.\n\nRègles de flexibilité : tu peux permuter 
+ les jours dans la semaine\, tant que (1) jamais 2 séances dures d'affilé
+ e\, (2) pas de renfo la veille de la sortie longue\, (3) le vélo peut tou
+ jours remplacer une course facile si le pied ou les jambes tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-04-04-170@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:🏃 Enchaînement 10 km facile
@@ -2770,7 +2854,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-04-05-171@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270405
 DTEND;VALUE=DATE:20270406
 SUMMARY:💪 Renfo N3
@@ -2786,10 +2870,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-04-06-172@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270406
 DTEND;VALUE=DATE:20270407
-SUMMARY:🏃 Qualité : Côtes longues + marche active 
+SUMMARY:🏃 Côtes spécifiques
 DESCRIPTION:Spécifique D\, semaine S24 : ~60 km\, ~2600 m D+ au total.\nC
  ôtes longues + marche active : 4 x 6' en montée (alterner course / march
  e rapide avec bâtons)\, descentes courues.\nSi le pied (bord externe) se 
@@ -2804,7 +2888,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-04-07-173@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
 SUMMARY:🚴 Vélo 1h30
@@ -2819,24 +2903,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-04-08-174@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270408
 DTEND;VALUE=DATE:20270409
-SUMMARY:🏃 Course 13 km EF vallonné
-DESCRIPTION:13 km en endurance\, sur parcours vallonné (Fourvière\, Croix
- -Rousse). Inclut les descentes à partir de février.\nSi le pied (bord ex
- terne) se réveille : pas de course ce jour-là\, vélo à la place.\nPlan
-  B météo (pluie\, verglas\, nuit) : tapis de course en salle\, ou invers
- e avec la séance vélo/renfo d'un autre jour.\n\nRègles de flexibilité 
- : tu peux permuter les jours dans la semaine\, tant que (1) jamais 2 séan
- ces dures d'affilée\, (2) pas de renfo la veille de la sortie longue\, (3
- ) le vélo peut toujours remplacer une course facile si le pied ou les jam
- bes tirent.
+SUMMARY:🏃 Seuil 3 x 12'
+DESCRIPTION:15' échauffement EF + 3 lignes droites\, puis 3 x 12' allure s
+ euil\, récup 2'\, puis 10' retour au calme EF.\nAllures : allure seuil (s
+ emi-marathon) : 7/10\, 85-90% FCmax\, quelques mots seulement | EF : très
+  facile\, 3-4/10\, tu parles sans effort\, 65-75% FCmax\nLieu : plat (berg
+ es du Rhône\, parc de la Tête d'Or) ou piste. Pluie : tapis.\nSi le pied
+  (bord externe) se réveille : pas de course ce jour-là\, vélo à la pla
+ ce.\nPlan B météo (pluie\, verglas\, nuit) : tapis de course en salle\, 
+ ou inverse avec la séance vélo/renfo d'un autre jour.\n\nRègles de flex
+ ibilité : tu peux permuter les jours dans la semaine\, tant que (1) jamai
+ s 2 séances dures d'affilée\, (2) pas de renfo la veille de la sortie lo
+ ngue\, (3) le vélo peut toujours remplacer une course facile si le pied o
+ u les jambes tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-04-09-175@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270410
 SUMMARY:💪 Renfo N3
@@ -2853,26 +2940,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-04-10-176@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270410
 DTEND;VALUE=DATE:20270411
 SUMMARY:🏃 Sortie longue 3h30 montagne
-DESCRIPTION:Sortie longue 3h30\, ~24 km. Samoëns : en montagne avec D+ (ra
- quettes ou ski de rando OK si neige). Lyon : boucles Fourvière (Choulans\
- , Gourguillon\, Chazeaux) ou tapis incliné.\nSi le pied (bord externe) se
-  réveille : pas de course ce jour-là\, vélo à la place.\nPlan B mété
- o (pluie\, verglas\, nuit) : tapis de course en salle\, ou inverse avec la
-  séance vélo/renfo d'un autre jour.\nSortie > 2h : teste ta stratégie a
- nti-crampes (500-1000 mg sodium/h\, 500-750 ml/h\, 60-90 g glucides/h). No
- te ce que tu prends et si crampes.\n\nRègles de flexibilité : tu peux pe
- rmuter les jours dans la semaine\, tant que (1) jamais 2 séances dures d'
- affilée\, (2) pas de renfo la veille de la sortie longue\, (3) le vélo p
- eut toujours remplacer une course facile si le pied ou les jambes tirent.
+DESCRIPTION:Sortie longue 3h30\, ~24 km\, en EF (allure libre dans les mont
+ ées\, marche si ça grimpe fort). Samoëns : en montagne avec D+ (raquett
+ es ou ski de rando OK si neige). Lyon : boucles Fourvière (Choulans\, Gou
+ rguillon\, Chazeaux) ou tapis incliné.\nSi le pied (bord externe) se rév
+ eille : pas de course ce jour-là\, vélo à la place.\nPlan B météo (pl
+ uie\, verglas\, nuit) : tapis de course en salle\, ou inverse avec la séa
+ nce vélo/renfo d'un autre jour.\nSortie > 2h : teste ta stratégie anti-c
+ rampes (500-1000 mg sodium/h\, 500-750 ml/h\, 60-90 g glucides/h). Note ce
+  que tu prends et si crampes.\n\nRègles de flexibilité : tu peux permute
+ r les jours dans la semaine\, tant que (1) jamais 2 séances dures d'affil
+ ée\, (2) pas de renfo la veille de la sortie longue\, (3) le vélo peut t
+ oujours remplacer une course facile si le pied ou les jambes tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-04-11-177@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
 SUMMARY:🏃 Enchaînement 11 km facile
@@ -2888,7 +2976,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-04-12-178@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270412
 DTEND;VALUE=DATE:20270413
 SUMMARY:💪 Renfo N3
@@ -2904,10 +2992,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-04-13-179@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270413
 DTEND;VALUE=DATE:20270414
-SUMMARY:🏃 Qualité : Côtes longues + marche active 
+SUMMARY:🏃 Côtes spécifiques
 DESCRIPTION:Spécifique D\, semaine S25 : ~65 km\, ~3000 m D+ au total.\nC
  ôtes longues + marche active : 4 x 6' en montée (alterner course / march
  e rapide avec bâtons)\, descentes courues.\nSi le pied (bord externe) se 
@@ -2922,7 +3010,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-04-14-180@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270414
 DTEND;VALUE=DATE:20270415
 SUMMARY:🚴 Vélo 1h30
@@ -2937,24 +3025,26 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-04-15-181@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
-SUMMARY:🏃 Course 14 km EF vallonné
-DESCRIPTION:14 km en endurance\, sur parcours vallonné (Fourvière\, Croix
- -Rousse). Inclut les descentes à partir de février.\nSi le pied (bord ex
- terne) se réveille : pas de course ce jour-là\, vélo à la place.\nPlan
-  B météo (pluie\, verglas\, nuit) : tapis de course en salle\, ou invers
- e avec la séance vélo/renfo d'un autre jour.\n\nRègles de flexibilité 
- : tu peux permuter les jours dans la semaine\, tant que (1) jamais 2 séan
- ces dures d'affilée\, (2) pas de renfo la veille de la sortie longue\, (3
- ) le vélo peut toujours remplacer une course facile si le pied ou les jam
- bes tirent.
+SUMMARY:🏃 Tempo 40' vallonné
+DESCRIPTION:15' échauffement EF + 3 lignes droites\, puis 40' allure marat
+ hon sur parcours vallonné\, puis 10' retour au calme EF.\nAllures : allur
+ e marathon : 6/10\, 80-85% FCmax | EF : très facile\, 3-4/10\, tu parles 
+ sans effort\, 65-75% FCmax\nLieu : plat (berges du Rhône\, parc de la Tê
+ te d'Or) ou piste. Pluie : tapis.\nSi le pied (bord externe) se réveille 
+ : pas de course ce jour-là\, vélo à la place.\nPlan B météo (pluie\, 
+ verglas\, nuit) : tapis de course en salle\, ou inverse avec la séance v
+ élo/renfo d'un autre jour.\n\nRègles de flexibilité : tu peux permuter 
+ les jours dans la semaine\, tant que (1) jamais 2 séances dures d'affilé
+ e\, (2) pas de renfo la veille de la sortie longue\, (3) le vélo peut tou
+ jours remplacer une course facile si le pied ou les jambes tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-04-16-182@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270416
 DTEND;VALUE=DATE:20270417
 SUMMARY:💪 Renfo N3
@@ -2971,26 +3061,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-04-17-183@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270417
 DTEND;VALUE=DATE:20270418
 SUMMARY:🏃 Sortie longue 4h montagne
-DESCRIPTION:Sortie longue 4h\, ~26 km. Samoëns : en montagne avec D+ (raqu
- ettes ou ski de rando OK si neige). Lyon : boucles Fourvière (Choulans\, 
- Gourguillon\, Chazeaux) ou tapis incliné.\nSi le pied (bord externe) se r
- éveille : pas de course ce jour-là\, vélo à la place.\nPlan B météo 
- (pluie\, verglas\, nuit) : tapis de course en salle\, ou inverse avec la s
- éance vélo/renfo d'un autre jour.\nSortie > 2h : teste ta stratégie ant
- i-crampes (500-1000 mg sodium/h\, 500-750 ml/h\, 60-90 g glucides/h). Note
-  ce que tu prends et si crampes.\n\nRègles de flexibilité : tu peux perm
- uter les jours dans la semaine\, tant que (1) jamais 2 séances dures d'af
- filée\, (2) pas de renfo la veille de la sortie longue\, (3) le vélo peu
- t toujours remplacer une course facile si le pied ou les jambes tirent.
+DESCRIPTION:Sortie longue 4h\, ~26 km\, en EF (allure libre dans les monté
+ es\, marche si ça grimpe fort). Samoëns : en montagne avec D+ (raquettes
+  ou ski de rando OK si neige). Lyon : boucles Fourvière (Choulans\, Gourg
+ uillon\, Chazeaux) ou tapis incliné.\nSi le pied (bord externe) se révei
+ lle : pas de course ce jour-là\, vélo à la place.\nPlan B météo (plui
+ e\, verglas\, nuit) : tapis de course en salle\, ou inverse avec la séanc
+ e vélo/renfo d'un autre jour.\nSortie > 2h : teste ta stratégie anti-cra
+ mpes (500-1000 mg sodium/h\, 500-750 ml/h\, 60-90 g glucides/h). Note ce q
+ ue tu prends et si crampes.\n\nRègles de flexibilité : tu peux permuter 
+ les jours dans la semaine\, tant que (1) jamais 2 séances dures d'affilé
+ e\, (2) pas de renfo la veille de la sortie longue\, (3) le vélo peut tou
+ jours remplacer une course facile si le pied ou les jambes tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-04-18-184@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
 SUMMARY:🏃 Enchaînement 12 km facile
@@ -3006,7 +3097,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-04-19-185@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270419
 DTEND;VALUE=DATE:20270420
 SUMMARY:💪 Renfo N3
@@ -3022,25 +3113,28 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-04-20-186@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270420
 DTEND;VALUE=DATE:20270421
-SUMMARY:🏃 Qualité : Footing facile avec 6 lignes droites\, semaine all
- égée.
+SUMMARY:🏃 Fractionné court 8 x 30/30
 DESCRIPTION:Spécifique D (allégée)\, semaine S26 : ~45 km\, ~1500 m D+ a
- u total.\nFooting facile avec 6 lignes droites\, semaine allégée.\nSi le
-  pied (bord externe) se réveille : pas de course ce jour-là\, vélo à l
- a place.\nPlan B météo (pluie\, verglas\, nuit) : tapis de course en sal
- le\, ou inverse avec la séance vélo/renfo d'un autre jour.\n\nRègles de
-  flexibilité : tu peux permuter les jours dans la semaine\, tant que (1) 
- jamais 2 séances dures d'affilée\, (2) pas de renfo la veille de la sort
- ie longue\, (3) le vélo peut toujours remplacer une course facile si le p
- ied ou les jambes tirent.
+ u total.\n15' échauffement EF + 3 lignes droites\, puis 8 x 30"/30" pour 
+ garder de la vitesse sans fatigue\, puis 10' retour au calme EF.\nAllures 
+ : 30" à 1' rapide : allure 3-5 km\, 9/10\, relâché | EF : très facile\
+ , 3-4/10\, tu parles sans effort\, 65-75% FCmax\nLieu : plat (berges du Rh
+ ône\, parc de la Tête d'Or) ou piste. Pluie : tapis.\nSi le pied (bord e
+ xterne) se réveille : pas de course ce jour-là\, vélo à la place.\nPla
+ n B météo (pluie\, verglas\, nuit) : tapis de course en salle\, ou inver
+ se avec la séance vélo/renfo d'un autre jour.\n\nRègles de flexibilité
+  : tu peux permuter les jours dans la semaine\, tant que (1) jamais 2 séa
+ nces dures d'affilée\, (2) pas de renfo la veille de la sortie longue\, (
+ 3) le vélo peut toujours remplacer une course facile si le pied ou les ja
+ mbes tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-04-21-187@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270421
 DTEND;VALUE=DATE:20270422
 SUMMARY:🚴 Vélo 1h30
@@ -3055,12 +3149,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-04-22-188@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270422
 DTEND;VALUE=DATE:20270423
 SUMMARY:🏃 Course 10 km EF vallonné
-DESCRIPTION:10 km en endurance\, sur parcours vallonné (Fourvière\, Croix
- -Rousse). Inclut les descentes à partir de février.\nSi le pied (bord ex
+DESCRIPTION:10 km en endurance\, parcours vallonné.\nAllure : EF : très f
+ acile\, 3-4/10\, tu parles sans effort\, 65-75% FCmax\nSi le pied (bord ex
  terne) se réveille : pas de course ce jour-là\, vélo à la place.\nPlan
   B météo (pluie\, verglas\, nuit) : tapis de course en salle\, ou invers
  e avec la séance vélo/renfo d'un autre jour.\n\nRègles de flexibilité 
@@ -3072,7 +3166,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-04-23-189@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270423
 DTEND;VALUE=DATE:20270424
 SUMMARY:💪 Renfo N3
@@ -3089,26 +3183,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-04-24-190@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270425
 SUMMARY:🏃 Sortie longue 2h30 montagne
-DESCRIPTION:Sortie longue 2h30\, ~18 km. Samoëns : en montagne avec D+ (ra
- quettes ou ski de rando OK si neige). Lyon : boucles Fourvière (Choulans\
- , Gourguillon\, Chazeaux) ou tapis incliné.\nSi le pied (bord externe) se
-  réveille : pas de course ce jour-là\, vélo à la place.\nPlan B mété
- o (pluie\, verglas\, nuit) : tapis de course en salle\, ou inverse avec la
-  séance vélo/renfo d'un autre jour.\nSortie > 2h : teste ta stratégie a
- nti-crampes (500-1000 mg sodium/h\, 500-750 ml/h\, 60-90 g glucides/h). No
- te ce que tu prends et si crampes.\n\nRègles de flexibilité : tu peux pe
- rmuter les jours dans la semaine\, tant que (1) jamais 2 séances dures d'
- affilée\, (2) pas de renfo la veille de la sortie longue\, (3) le vélo p
- eut toujours remplacer une course facile si le pied ou les jambes tirent.
+DESCRIPTION:Sortie longue 2h30\, ~18 km\, en EF (allure libre dans les mont
+ ées\, marche si ça grimpe fort). Samoëns : en montagne avec D+ (raquett
+ es ou ski de rando OK si neige). Lyon : boucles Fourvière (Choulans\, Gou
+ rguillon\, Chazeaux) ou tapis incliné.\nSi le pied (bord externe) se rév
+ eille : pas de course ce jour-là\, vélo à la place.\nPlan B météo (pl
+ uie\, verglas\, nuit) : tapis de course en salle\, ou inverse avec la séa
+ nce vélo/renfo d'un autre jour.\nSortie > 2h : teste ta stratégie anti-c
+ rampes (500-1000 mg sodium/h\, 500-750 ml/h\, 60-90 g glucides/h). Note ce
+  que tu prends et si crampes.\n\nRègles de flexibilité : tu peux permute
+ r les jours dans la semaine\, tant que (1) jamais 2 séances dures d'affil
+ ée\, (2) pas de renfo la veille de la sortie longue\, (3) le vélo peut t
+ oujours remplacer une course facile si le pied ou les jambes tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-04-25-191@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270426
 SUMMARY:🏃 Course 8 km récup
@@ -3124,7 +3219,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-04-26-192@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270426
 DTEND;VALUE=DATE:20270427
 SUMMARY:💪 Renfo N3
@@ -3140,10 +3235,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-04-27-193@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270427
 DTEND;VALUE=DATE:20270428
-SUMMARY:🏃 Qualité : Seuil 
+SUMMARY:🏃 Côtes spécifiques
 DESCRIPTION:Spécifique E\, semaine S27 : ~62 km\, ~2800 m D+ au total.\nSe
  uil : 15' échauffement\, 3 x 8' à allure seuil (difficile mais tenable 1
  h)\, récup 2'\, 10' retour au calme. Plat ou tapis.\nSi le pied (bord ext
@@ -3158,7 +3253,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-04-28-194@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270428
 DTEND;VALUE=DATE:20270429
 SUMMARY:🚴 Vélo 1h30
@@ -3173,24 +3268,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-04-29-195@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270429
 DTEND;VALUE=DATE:20270430
-SUMMARY:🏃 Course 14 km EF vallonné
-DESCRIPTION:14 km en endurance\, sur parcours vallonné (Fourvière\, Croix
- -Rousse). Inclut les descentes à partir de février.\nSi le pied (bord ex
- terne) se réveille : pas de course ce jour-là\, vélo à la place.\nPlan
-  B météo (pluie\, verglas\, nuit) : tapis de course en salle\, ou invers
- e avec la séance vélo/renfo d'un autre jour.\n\nRègles de flexibilité 
- : tu peux permuter les jours dans la semaine\, tant que (1) jamais 2 séan
- ces dures d'affilée\, (2) pas de renfo la veille de la sortie longue\, (3
- ) le vélo peut toujours remplacer une course facile si le pied ou les jam
- bes tirent.
+SUMMARY:🏃 Seuil 3 x 10'
+DESCRIPTION:15' échauffement EF + 3 lignes droites\, puis 3 x 10' allure s
+ euil\, récup 2'\, puis 10' retour au calme EF.\nAllures : allure seuil (s
+ emi-marathon) : 7/10\, 85-90% FCmax\, quelques mots seulement | EF : très
+  facile\, 3-4/10\, tu parles sans effort\, 65-75% FCmax\nLieu : plat (berg
+ es du Rhône\, parc de la Tête d'Or) ou piste. Pluie : tapis.\nSi le pied
+  (bord externe) se réveille : pas de course ce jour-là\, vélo à la pla
+ ce.\nPlan B météo (pluie\, verglas\, nuit) : tapis de course en salle\, 
+ ou inverse avec la séance vélo/renfo d'un autre jour.\n\nRègles de flex
+ ibilité : tu peux permuter les jours dans la semaine\, tant que (1) jamai
+ s 2 séances dures d'affilée\, (2) pas de renfo la veille de la sortie lo
+ ngue\, (3) le vélo peut toujours remplacer une course facile si le pied o
+ u les jambes tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-04-30-196@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270430
 DTEND;VALUE=DATE:20270501
 SUMMARY:💪 Renfo N3
@@ -3207,26 +3305,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-05-01-197@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
 SUMMARY:🏃 Sortie longue 4h montagne
-DESCRIPTION:Sortie longue 4h\, ~25 km. Samoëns : en montagne avec D+ (raqu
- ettes ou ski de rando OK si neige). Lyon : boucles Fourvière (Choulans\, 
- Gourguillon\, Chazeaux) ou tapis incliné.\nSi le pied (bord externe) se r
- éveille : pas de course ce jour-là\, vélo à la place.\nPlan B météo 
- (pluie\, verglas\, nuit) : tapis de course en salle\, ou inverse avec la s
- éance vélo/renfo d'un autre jour.\nSortie > 2h : teste ta stratégie ant
- i-crampes (500-1000 mg sodium/h\, 500-750 ml/h\, 60-90 g glucides/h). Note
-  ce que tu prends et si crampes.\n\nRègles de flexibilité : tu peux perm
- uter les jours dans la semaine\, tant que (1) jamais 2 séances dures d'af
- filée\, (2) pas de renfo la veille de la sortie longue\, (3) le vélo peu
- t toujours remplacer une course facile si le pied ou les jambes tirent.
+DESCRIPTION:Sortie longue 4h\, ~25 km\, en EF (allure libre dans les monté
+ es\, marche si ça grimpe fort). Samoëns : en montagne avec D+ (raquettes
+  ou ski de rando OK si neige). Lyon : boucles Fourvière (Choulans\, Gourg
+ uillon\, Chazeaux) ou tapis incliné.\nSi le pied (bord externe) se révei
+ lle : pas de course ce jour-là\, vélo à la place.\nPlan B météo (plui
+ e\, verglas\, nuit) : tapis de course en salle\, ou inverse avec la séanc
+ e vélo/renfo d'un autre jour.\nSortie > 2h : teste ta stratégie anti-cra
+ mpes (500-1000 mg sodium/h\, 500-750 ml/h\, 60-90 g glucides/h). Note ce q
+ ue tu prends et si crampes.\n\nRègles de flexibilité : tu peux permuter 
+ les jours dans la semaine\, tant que (1) jamais 2 séances dures d'affilé
+ e\, (2) pas de renfo la veille de la sortie longue\, (3) le vélo peut tou
+ jours remplacer une course facile si le pied ou les jambes tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-05-02-198@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
 SUMMARY:🏃 Enchaînement 11 km facile
@@ -3242,7 +3341,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-05-03-199@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270503
 DTEND;VALUE=DATE:20270504
 SUMMARY:💪 Renfo N3
@@ -3258,7 +3357,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-05-04-200@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270504
 DTEND;VALUE=DATE:20270505
 SUMMARY:🏃 Footing 40' + 4 lignes droites
@@ -3274,7 +3373,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-05-05-201@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270505
 DTEND;VALUE=DATE:20270506
 SUMMARY:🚴 Vélo 1h
@@ -3288,7 +3387,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-05-06-202@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270506
 DTEND;VALUE=DATE:20270507
 SUMMARY:🏃 Footing 30' facile
@@ -3303,7 +3402,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-05-07-203@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270507
 DTEND;VALUE=DATE:20270508
 SUMMARY:😴 Repos
@@ -3316,7 +3415,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-05-08-204@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
 SUMMARY:🏃 COURSE DE PRÉPA (40-60 km) – à choisir
@@ -3336,7 +3435,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-05-09-205@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 SUMMARY:😴 Repos
@@ -3349,7 +3448,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-05-10-206@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270510
 DTEND;VALUE=DATE:20270511
 SUMMARY:💪 Renfo N3
@@ -3365,25 +3464,28 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-05-11-207@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270511
 DTEND;VALUE=DATE:20270512
-SUMMARY:🏃 Qualité : Footing facile avec 6 lignes droites\, semaine all
- égée.
+SUMMARY:🏃 Fractionné court 8 x 30/30
 DESCRIPTION:Spécifique E (reprise après course)\, semaine S29 : ~50 km\, 
- ~2000 m D+ au total.\nFooting facile avec 6 lignes droites\, semaine allé
- gée.\nSi le pied (bord externe) se réveille : pas de course ce jour-là\
- , vélo à la place.\nPlan B météo (pluie\, verglas\, nuit) : tapis de c
- ourse en salle\, ou inverse avec la séance vélo/renfo d'un autre jour.\n
- \nRègles de flexibilité : tu peux permuter les jours dans la semaine\, t
- ant que (1) jamais 2 séances dures d'affilée\, (2) pas de renfo la veill
- e de la sortie longue\, (3) le vélo peut toujours remplacer une course fa
- cile si le pied ou les jambes tirent.
+ ~2000 m D+ au total.\n15' échauffement EF + 3 lignes droites\, puis 8 x 3
+ 0"/30" pour garder de la vitesse sans fatigue\, puis 10' retour au calme E
+ F.\nAllures : 30" à 1' rapide : allure 3-5 km\, 9/10\, relâché | EF : t
+ rès facile\, 3-4/10\, tu parles sans effort\, 65-75% FCmax\nLieu : plat (
+ berges du Rhône\, parc de la Tête d'Or) ou piste. Pluie : tapis.\nSi le 
+ pied (bord externe) se réveille : pas de course ce jour-là\, vélo à la
+  place.\nPlan B météo (pluie\, verglas\, nuit) : tapis de course en sall
+ e\, ou inverse avec la séance vélo/renfo d'un autre jour.\n\nRègles de 
+ flexibilité : tu peux permuter les jours dans la semaine\, tant que (1) j
+ amais 2 séances dures d'affilée\, (2) pas de renfo la veille de la sorti
+ e longue\, (3) le vélo peut toujours remplacer une course facile si le pi
+ ed ou les jambes tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-05-12-208@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270512
 DTEND;VALUE=DATE:20270513
 SUMMARY:🚴 Vélo 1h30
@@ -3398,12 +3500,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-05-13-209@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270514
 SUMMARY:🏃 Course 11 km EF vallonné
-DESCRIPTION:11 km en endurance\, sur parcours vallonné (Fourvière\, Croix
- -Rousse). Inclut les descentes à partir de février.\nSi le pied (bord ex
+DESCRIPTION:11 km en endurance\, parcours vallonné.\nAllure : EF : très f
+ acile\, 3-4/10\, tu parles sans effort\, 65-75% FCmax\nSi le pied (bord ex
  terne) se réveille : pas de course ce jour-là\, vélo à la place.\nPlan
   B météo (pluie\, verglas\, nuit) : tapis de course en salle\, ou invers
  e avec la séance vélo/renfo d'un autre jour.\n\nRègles de flexibilité 
@@ -3415,7 +3517,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-05-14-210@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270514
 DTEND;VALUE=DATE:20270515
 SUMMARY:💪 Renfo N3
@@ -3432,26 +3534,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-05-15-211@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
 SUMMARY:🏃 Sortie longue 3h montagne
-DESCRIPTION:Sortie longue 3h\, ~20 km. Samoëns : en montagne avec D+ (raqu
- ettes ou ski de rando OK si neige). Lyon : boucles Fourvière (Choulans\, 
- Gourguillon\, Chazeaux) ou tapis incliné.\nSi le pied (bord externe) se r
- éveille : pas de course ce jour-là\, vélo à la place.\nPlan B météo 
- (pluie\, verglas\, nuit) : tapis de course en salle\, ou inverse avec la s
- éance vélo/renfo d'un autre jour.\nSortie > 2h : teste ta stratégie ant
- i-crampes (500-1000 mg sodium/h\, 500-750 ml/h\, 60-90 g glucides/h). Note
-  ce que tu prends et si crampes.\n\nRègles de flexibilité : tu peux perm
- uter les jours dans la semaine\, tant que (1) jamais 2 séances dures d'af
- filée\, (2) pas de renfo la veille de la sortie longue\, (3) le vélo peu
- t toujours remplacer une course facile si le pied ou les jambes tirent.
+DESCRIPTION:Sortie longue 3h\, ~20 km\, en EF (allure libre dans les monté
+ es\, marche si ça grimpe fort). Samoëns : en montagne avec D+ (raquettes
+  ou ski de rando OK si neige). Lyon : boucles Fourvière (Choulans\, Gourg
+ uillon\, Chazeaux) ou tapis incliné.\nSi le pied (bord externe) se révei
+ lle : pas de course ce jour-là\, vélo à la place.\nPlan B météo (plui
+ e\, verglas\, nuit) : tapis de course en salle\, ou inverse avec la séanc
+ e vélo/renfo d'un autre jour.\nSortie > 2h : teste ta stratégie anti-cra
+ mpes (500-1000 mg sodium/h\, 500-750 ml/h\, 60-90 g glucides/h). Note ce q
+ ue tu prends et si crampes.\n\nRègles de flexibilité : tu peux permuter 
+ les jours dans la semaine\, tant que (1) jamais 2 séances dures d'affilé
+ e\, (2) pas de renfo la veille de la sortie longue\, (3) le vélo peut tou
+ jours remplacer une course facile si le pied ou les jambes tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-05-16-212@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270516
 DTEND;VALUE=DATE:20270517
 SUMMARY:🏃 Course 9 km récup
@@ -3467,7 +3570,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-05-17-213@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270517
 DTEND;VALUE=DATE:20270518
 SUMMARY:💪 Renfo N3
@@ -3483,10 +3586,10 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-05-18-214@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270518
 DTEND;VALUE=DATE:20270519
-SUMMARY:🏃 Qualité : Côtes longues + marche active 
+SUMMARY:🏃 Côtes spécifiques
 DESCRIPTION:Spécifique E (semaine choc)\, semaine S30 : ~70 km\, ~4000 m D
  + au total.\nCôtes longues + marche active : 4 x 6' en montée (alterner 
  course / marche rapide avec bâtons)\, descentes courues.\nSi le pied (bor
@@ -3501,7 +3604,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-05-19-215@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270519
 DTEND;VALUE=DATE:20270520
 SUMMARY:🚴 Vélo 1h30
@@ -3516,24 +3619,26 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-05-20-216@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270520
 DTEND;VALUE=DATE:20270521
-SUMMARY:🏃 Course 15 km EF vallonné
-DESCRIPTION:15 km en endurance\, sur parcours vallonné (Fourvière\, Croix
- -Rousse). Inclut les descentes à partir de février.\nSi le pied (bord ex
- terne) se réveille : pas de course ce jour-là\, vélo à la place.\nPlan
-  B météo (pluie\, verglas\, nuit) : tapis de course en salle\, ou invers
- e avec la séance vélo/renfo d'un autre jour.\n\nRègles de flexibilité 
- : tu peux permuter les jours dans la semaine\, tant que (1) jamais 2 séan
- ces dures d'affilée\, (2) pas de renfo la veille de la sortie longue\, (3
- ) le vélo peut toujours remplacer une course facile si le pied ou les jam
- bes tirent.
+SUMMARY:🏃 Tempo 30'
+DESCRIPTION:15' échauffement EF + 3 lignes droites\, puis 30' allure marat
+ hon\, puis 10' retour au calme EF.\nAllures : allure marathon : 6/10\, 80-
+ 85% FCmax | EF : très facile\, 3-4/10\, tu parles sans effort\, 65-75% FC
+ max\nLieu : plat (berges du Rhône\, parc de la Tête d'Or) ou piste. Plui
+ e : tapis.\nSi le pied (bord externe) se réveille : pas de course ce jour
+ -là\, vélo à la place.\nPlan B météo (pluie\, verglas\, nuit) : tapis
+  de course en salle\, ou inverse avec la séance vélo/renfo d'un autre jo
+ ur.\n\nRègles de flexibilité : tu peux permuter les jours dans la semain
+ e\, tant que (1) jamais 2 séances dures d'affilée\, (2) pas de renfo la 
+ veille de la sortie longue\, (3) le vélo peut toujours remplacer une cour
+ se facile si le pied ou les jambes tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-05-21-217@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270521
 DTEND;VALUE=DATE:20270522
 SUMMARY:💪 Renfo N3
@@ -3550,26 +3655,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-05-22-218@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270522
 DTEND;VALUE=DATE:20270523
 SUMMARY:🏃 Sortie longue 5-6h montagne
-DESCRIPTION:Sortie longue 5-6h\, ~28 km. Samoëns : en montagne avec D+ (ra
- quettes ou ski de rando OK si neige). Lyon : boucles Fourvière (Choulans\
- , Gourguillon\, Chazeaux) ou tapis incliné.\nSi le pied (bord externe) se
-  réveille : pas de course ce jour-là\, vélo à la place.\nPlan B mété
- o (pluie\, verglas\, nuit) : tapis de course en salle\, ou inverse avec la
-  séance vélo/renfo d'un autre jour.\nSortie > 2h : teste ta stratégie a
- nti-crampes (500-1000 mg sodium/h\, 500-750 ml/h\, 60-90 g glucides/h). No
- te ce que tu prends et si crampes.\n\nRègles de flexibilité : tu peux pe
- rmuter les jours dans la semaine\, tant que (1) jamais 2 séances dures d'
- affilée\, (2) pas de renfo la veille de la sortie longue\, (3) le vélo p
- eut toujours remplacer une course facile si le pied ou les jambes tirent.
+DESCRIPTION:Sortie longue 5-6h\, ~28 km\, en EF (allure libre dans les mont
+ ées\, marche si ça grimpe fort). Samoëns : en montagne avec D+ (raquett
+ es ou ski de rando OK si neige). Lyon : boucles Fourvière (Choulans\, Gou
+ rguillon\, Chazeaux) ou tapis incliné.\nSi le pied (bord externe) se rév
+ eille : pas de course ce jour-là\, vélo à la place.\nPlan B météo (pl
+ uie\, verglas\, nuit) : tapis de course en salle\, ou inverse avec la séa
+ nce vélo/renfo d'un autre jour.\nSortie > 2h : teste ta stratégie anti-c
+ rampes (500-1000 mg sodium/h\, 500-750 ml/h\, 60-90 g glucides/h). Note ce
+  que tu prends et si crampes.\n\nRègles de flexibilité : tu peux permute
+ r les jours dans la semaine\, tant que (1) jamais 2 séances dures d'affil
+ ée\, (2) pas de renfo la veille de la sortie longue\, (3) le vélo peut t
+ oujours remplacer une course facile si le pied ou les jambes tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-05-23-219@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270523
 DTEND;VALUE=DATE:20270524
 SUMMARY:🏃 Enchaînement 13 km facile
@@ -3585,7 +3691,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-05-24-220@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270524
 DTEND;VALUE=DATE:20270525
 SUMMARY:💪 Renfo N3
@@ -3601,25 +3707,28 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-05-25-221@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270525
 DTEND;VALUE=DATE:20270526
-SUMMARY:🏃 Qualité : Seuil 
-DESCRIPTION:Affûtage -30%\, semaine S31 : ~50 km\, ~2500 m D+ au total.\nS
- euil : 15' échauffement\, 3 x 8' à allure seuil (difficile mais tenable 
- 1h)\, récup 2'\, 10' retour au calme. Plat ou tapis.\nSi le pied (bord ex
- terne) se réveille : pas de course ce jour-là\, vélo à la place.\nPlan
-  B météo (pluie\, verglas\, nuit) : tapis de course en salle\, ou invers
- e avec la séance vélo/renfo d'un autre jour.\n\nRègles de flexibilité 
- : tu peux permuter les jours dans la semaine\, tant que (1) jamais 2 séan
- ces dures d'affilée\, (2) pas de renfo la veille de la sortie longue\, (3
- ) le vélo peut toujours remplacer une course facile si le pied ou les jam
- bes tirent.
+SUMMARY:🏃 Fractionné 6 x 1000 m
+DESCRIPTION:Affûtage -30%\, semaine S31 : ~50 km\, ~2500 m D+ au total.\n1
+ 5' échauffement EF + 3 lignes droites\, puis 6 x 1000 m\, récup 1'30\, 
+ à allure 10 km\, puis 10' retour au calme EF.\nAllures : allure 5-10 km :
+  8-9/10\, 90-95% FCmax en fin de répétition | EF : très facile\, 3-4/10
+ \, tu parles sans effort\, 65-75% FCmax\nLieu : plat (berges du Rhône\, p
+ arc de la Tête d'Or) ou piste. Pluie : tapis.\nSi le pied (bord externe) 
+ se réveille : pas de course ce jour-là\, vélo à la place.\nPlan B mét
+ éo (pluie\, verglas\, nuit) : tapis de course en salle\, ou inverse avec 
+ la séance vélo/renfo d'un autre jour.\n\nRègles de flexibilité : tu pe
+ ux permuter les jours dans la semaine\, tant que (1) jamais 2 séances dur
+ es d'affilée\, (2) pas de renfo la veille de la sortie longue\, (3) le v
+ élo peut toujours remplacer une course facile si le pied ou les jambes ti
+ rent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-05-26-222@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270526
 DTEND;VALUE=DATE:20270527
 SUMMARY:🚴 Vélo 1h30
@@ -3634,24 +3743,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-05-27-223@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270527
 DTEND;VALUE=DATE:20270528
-SUMMARY:🏃 Course 11 km EF vallonné
-DESCRIPTION:11 km en endurance\, sur parcours vallonné (Fourvière\, Croix
- -Rousse). Inclut les descentes à partir de février.\nSi le pied (bord ex
- terne) se réveille : pas de course ce jour-là\, vélo à la place.\nPlan
-  B météo (pluie\, verglas\, nuit) : tapis de course en salle\, ou invers
- e avec la séance vélo/renfo d'un autre jour.\n\nRègles de flexibilité 
- : tu peux permuter les jours dans la semaine\, tant que (1) jamais 2 séan
- ces dures d'affilée\, (2) pas de renfo la veille de la sortie longue\, (3
- ) le vélo peut toujours remplacer une course facile si le pied ou les jam
- bes tirent.
+SUMMARY:🏃 Seuil 2 x 10'
+DESCRIPTION:15' échauffement EF + 3 lignes droites\, puis 2 x 10' allure s
+ euil\, récup 2'\, puis 10' retour au calme EF.\nAllures : allure seuil (s
+ emi-marathon) : 7/10\, 85-90% FCmax\, quelques mots seulement | EF : très
+  facile\, 3-4/10\, tu parles sans effort\, 65-75% FCmax\nLieu : plat (berg
+ es du Rhône\, parc de la Tête d'Or) ou piste. Pluie : tapis.\nSi le pied
+  (bord externe) se réveille : pas de course ce jour-là\, vélo à la pla
+ ce.\nPlan B météo (pluie\, verglas\, nuit) : tapis de course en salle\, 
+ ou inverse avec la séance vélo/renfo d'un autre jour.\n\nRègles de flex
+ ibilité : tu peux permuter les jours dans la semaine\, tant que (1) jamai
+ s 2 séances dures d'affilée\, (2) pas de renfo la veille de la sortie lo
+ ngue\, (3) le vélo peut toujours remplacer une course facile si le pied o
+ u les jambes tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-05-28-224@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270528
 DTEND;VALUE=DATE:20270529
 SUMMARY:💪 Renfo N3
@@ -3668,26 +3780,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-05-29-225@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270529
 DTEND;VALUE=DATE:20270530
 SUMMARY:🏃 Sortie longue 3h montagne
-DESCRIPTION:Sortie longue 3h\, ~20 km. Samoëns : en montagne avec D+ (raqu
- ettes ou ski de rando OK si neige). Lyon : boucles Fourvière (Choulans\, 
- Gourguillon\, Chazeaux) ou tapis incliné.\nSi le pied (bord externe) se r
- éveille : pas de course ce jour-là\, vélo à la place.\nPlan B météo 
- (pluie\, verglas\, nuit) : tapis de course en salle\, ou inverse avec la s
- éance vélo/renfo d'un autre jour.\nSortie > 2h : teste ta stratégie ant
- i-crampes (500-1000 mg sodium/h\, 500-750 ml/h\, 60-90 g glucides/h). Note
-  ce que tu prends et si crampes.\n\nRègles de flexibilité : tu peux perm
- uter les jours dans la semaine\, tant que (1) jamais 2 séances dures d'af
- filée\, (2) pas de renfo la veille de la sortie longue\, (3) le vélo peu
- t toujours remplacer une course facile si le pied ou les jambes tirent.
+DESCRIPTION:Sortie longue 3h\, ~20 km\, en EF (allure libre dans les monté
+ es\, marche si ça grimpe fort). Samoëns : en montagne avec D+ (raquettes
+  ou ski de rando OK si neige). Lyon : boucles Fourvière (Choulans\, Gourg
+ uillon\, Chazeaux) ou tapis incliné.\nSi le pied (bord externe) se révei
+ lle : pas de course ce jour-là\, vélo à la place.\nPlan B météo (plui
+ e\, verglas\, nuit) : tapis de course en salle\, ou inverse avec la séanc
+ e vélo/renfo d'un autre jour.\nSortie > 2h : teste ta stratégie anti-cra
+ mpes (500-1000 mg sodium/h\, 500-750 ml/h\, 60-90 g glucides/h). Note ce q
+ ue tu prends et si crampes.\n\nRègles de flexibilité : tu peux permuter 
+ les jours dans la semaine\, tant que (1) jamais 2 séances dures d'affilé
+ e\, (2) pas de renfo la veille de la sortie longue\, (3) le vélo peut tou
+ jours remplacer une course facile si le pied ou les jambes tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-05-30-226@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270530
 DTEND;VALUE=DATE:20270531
 SUMMARY:🏃 Enchaînement 9 km facile
@@ -3703,7 +3816,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-05-31-227@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270531
 DTEND;VALUE=DATE:20270601
 SUMMARY:💪 Renfo N3
@@ -3719,25 +3832,28 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-06-01-228@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270601
 DTEND;VALUE=DATE:20270602
-SUMMARY:🏃 Qualité : Footing facile avec 6 lignes droites\, semaine all
- égée.
-DESCRIPTION:Affûtage -45%\, semaine S32 : ~38 km\, ~1500 m D+ au total.\nF
- ooting facile avec 6 lignes droites\, semaine allégée.\nSi le pied (bord
-  externe) se réveille : pas de course ce jour-là\, vélo à la place.\nP
- lan B météo (pluie\, verglas\, nuit) : tapis de course en salle\, ou inv
- erse avec la séance vélo/renfo d'un autre jour.\n\nRègles de flexibilit
- é : tu peux permuter les jours dans la semaine\, tant que (1) jamais 2 s
- éances dures d'affilée\, (2) pas de renfo la veille de la sortie longue\
- , (3) le vélo peut toujours remplacer une course facile si le pied ou les
-  jambes tirent.
+SUMMARY:🏃 Fractionné court 8 x 30/30
+DESCRIPTION:Affûtage -45%\, semaine S32 : ~38 km\, ~1500 m D+ au total.\n1
+ 5' échauffement EF + 3 lignes droites\, puis 8 x 30"/30" pour garder de l
+ a vitesse sans fatigue\, puis 10' retour au calme EF.\nAllures : 30" à 1'
+  rapide : allure 3-5 km\, 9/10\, relâché | EF : très facile\, 3-4/10\, 
+ tu parles sans effort\, 65-75% FCmax\nLieu : plat (berges du Rhône\, parc
+  de la Tête d'Or) ou piste. Pluie : tapis.\nSi le pied (bord externe) se 
+ réveille : pas de course ce jour-là\, vélo à la place.\nPlan B météo
+  (pluie\, verglas\, nuit) : tapis de course en salle\, ou inverse avec la 
+ séance vélo/renfo d'un autre jour.\n\nRègles de flexibilité : tu peux 
+ permuter les jours dans la semaine\, tant que (1) jamais 2 séances dures 
+ d'affilée\, (2) pas de renfo la veille de la sortie longue\, (3) le vélo
+  peut toujours remplacer une course facile si le pied ou les jambes tirent
+ .
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-06-02-229@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270602
 DTEND;VALUE=DATE:20270603
 SUMMARY:🚴 Vélo 1h30
@@ -3752,12 +3868,12 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-06-03-230@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270603
 DTEND;VALUE=DATE:20270604
 SUMMARY:🏃 Course 8 km EF vallonné
-DESCRIPTION:8 km en endurance\, sur parcours vallonné (Fourvière\, Croix-
- Rousse). Inclut les descentes à partir de février.\nSi le pied (bord ext
+DESCRIPTION:8 km en endurance\, parcours vallonné.\nAllure : EF : très fa
+ cile\, 3-4/10\, tu parles sans effort\, 65-75% FCmax\nSi le pied (bord ext
  erne) se réveille : pas de course ce jour-là\, vélo à la place.\nPlan 
  B météo (pluie\, verglas\, nuit) : tapis de course en salle\, ou inverse
   avec la séance vélo/renfo d'un autre jour.\n\nRègles de flexibilité :
@@ -3769,7 +3885,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-06-04-231@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270604
 DTEND;VALUE=DATE:20270605
 SUMMARY:💪 Renfo N3
@@ -3786,27 +3902,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-06-05-232@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270605
 DTEND;VALUE=DATE:20270606
 SUMMARY:🏃 Sortie longue 2h30 max montagne
-DESCRIPTION:Sortie longue 2h30 max\, ~15 km. Samoëns : en montagne avec D+
-  (raquettes ou ski de rando OK si neige). Lyon : boucles Fourvière (Choul
- ans\, Gourguillon\, Chazeaux) ou tapis incliné.\nSi le pied (bord externe
- ) se réveille : pas de course ce jour-là\, vélo à la place.\nPlan B m
- étéo (pluie\, verglas\, nuit) : tapis de course en salle\, ou inverse av
- ec la séance vélo/renfo d'un autre jour.\nSortie > 2h : teste ta straté
- gie anti-crampes (500-1000 mg sodium/h\, 500-750 ml/h\, 60-90 g glucides/h
- ). Note ce que tu prends et si crampes.\n\nRègles de flexibilité : tu pe
- ux permuter les jours dans la semaine\, tant que (1) jamais 2 séances dur
- es d'affilée\, (2) pas de renfo la veille de la sortie longue\, (3) le v
- élo peut toujours remplacer une course facile si le pied ou les jambes ti
- rent.
+DESCRIPTION:Sortie longue 2h30 max\, ~15 km\, en EF (allure libre dans les 
+ montées\, marche si ça grimpe fort). Samoëns : en montagne avec D+ (raq
+ uettes ou ski de rando OK si neige). Lyon : boucles Fourvière (Choulans\,
+  Gourguillon\, Chazeaux) ou tapis incliné.\nSi le pied (bord externe) se 
+ réveille : pas de course ce jour-là\, vélo à la place.\nPlan B météo
+  (pluie\, verglas\, nuit) : tapis de course en salle\, ou inverse avec la 
+ séance vélo/renfo d'un autre jour.\nSortie > 2h : teste ta stratégie an
+ ti-crampes (500-1000 mg sodium/h\, 500-750 ml/h\, 60-90 g glucides/h). Not
+ e ce que tu prends et si crampes.\n\nRègles de flexibilité : tu peux per
+ muter les jours dans la semaine\, tant que (1) jamais 2 séances dures d'a
+ ffilée\, (2) pas de renfo la veille de la sortie longue\, (3) le vélo pe
+ ut toujours remplacer une course facile si le pied ou les jambes tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-06-06-233@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270606
 DTEND;VALUE=DATE:20270607
 SUMMARY:🏃 Course 7 km récup
@@ -3822,7 +3938,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-06-07-234@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270607
 DTEND;VALUE=DATE:20270608
 SUMMARY:💪 Renfo N3
@@ -3838,23 +3954,24 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-06-08-235@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270608
 DTEND;VALUE=DATE:20270609
 SUMMARY:🏃 Footing 40' + 3 x 3' allure course
 DESCRIPTION:Affûtage -60% / semaine de course\, semaine S33 : ~25 km\, ~80
- 0 m D+ au total.\nSi le pied (bord externe) se réveille : pas de course c
- e jour-là\, vélo à la place.\nPlan B météo (pluie\, verglas\, nuit) :
-  tapis de course en salle\, ou inverse avec la séance vélo/renfo d'un au
- tre jour.\n\nRègles de flexibilité : tu peux permuter les jours dans la 
- semaine\, tant que (1) jamais 2 séances dures d'affilée\, (2) pas de ren
- fo la veille de la sortie longue\, (3) le vélo peut toujours remplacer un
- e course facile si le pied ou les jambes tirent.
+ 0 m D+ au total. Allure course UTHG : très facile\, objectif 12 min/km de
+  moyenne tout compris (≈18h).\nSi le pied (bord externe) se réveille : 
+ pas de course ce jour-là\, vélo à la place.\nPlan B météo (pluie\, ve
+ rglas\, nuit) : tapis de course en salle\, ou inverse avec la séance vél
+ o/renfo d'un autre jour.\n\nRègles de flexibilité : tu peux permuter les
+  jours dans la semaine\, tant que (1) jamais 2 séances dures d'affilée\,
+  (2) pas de renfo la veille de la sortie longue\, (3) le vélo peut toujou
+ rs remplacer une course facile si le pied ou les jambes tirent.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-06-09-236@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270609
 DTEND;VALUE=DATE:20270610
 SUMMARY:🚴 Vélo 45'
@@ -3868,7 +3985,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-06-10-237@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270610
 DTEND;VALUE=DATE:20270611
 SUMMARY:🏃 Footing 30' facile
@@ -3883,7 +4000,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-06-11-238@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270611
 DTEND;VALUE=DATE:20270612
 SUMMARY:😴 Repos
@@ -3896,7 +4013,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-06-12-239@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270612
 DTEND;VALUE=DATE:20270613
 SUMMARY:🏔️ UTHG 90 km (date à confirmer)
@@ -3910,7 +4027,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:uthg90-2027-06-13-240@trail
-DTSTAMP:20261023T100000Z
+DTSTAMP:20261023T142522Z
 DTSTART;VALUE=DATE:20270613
 DTEND;VALUE=DATE:20270614
 SUMMARY:😴 Repos
