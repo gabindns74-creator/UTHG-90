@@ -148,6 +148,7 @@ for (w,km,dp,ld,q,lab,lvl,light) in weeks:
         run(D(w,1),"Côtes spécifiques", head + "\n" + q)
     if w < 23:
         velo(D(w,2),"1h30-2h","Si fatigue, tu peux le remplacer par du repos.")
+        if not light: add(D(w,2),"💪 Renfo B",RENFO_B)
     else:
         velo(D(w,2),"1h30","Ou 45' de course facile si le vélo n'est pas dispo.")
     tk = round(km*0.22)
