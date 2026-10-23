@@ -169,6 +169,20 @@ for (w,km,dp,ld,q,lab,lvl,light) in weeks:
     else:
         run(D(w,6), f"Course {sk} km récup", f"{sk} km très facile, récupération. Ou vélo 1h30 si tu préfères.")
 
+# Ajustements météo (Meteoblue Lyon), mis à jour par Claude dans ajustements.json :
+# {"meteo": {"AAAA-MM-JJ": "texte prévision"}, "echanges": [["AAAA-MM-JJ", "AAAA-MM-JJ", "raison"]]}
+import json, os
+_aj = os.path.join(os.path.dirname(os.path.abspath(__file__)), "ajustements.json")
+AJ = json.load(open(_aj)) if os.path.exists(_aj) else {}
+for a_, b_, why in AJ.get("echanges", []):
+    a_, b_ = dt.date.fromisoformat(a_), dt.date.fromisoformat(b_)
+    for i_, (day, t, d) in enumerate(ev):
+        if day == a_: ev[i_] = (b_, t + " 🔁", d + f"\nDéplacé du {a_:%d/%m} : {why}")
+        elif day == b_: ev[i_] = (a_, t + " 🔁", d + f"\nDéplacé du {b_:%d/%m} : {why}")
+for i_, (day, t, d) in enumerate(ev):
+    m_ = AJ.get("meteo", {}).get(day.isoformat())
+    if m_: ev[i_] = (day, t, f"Météo Lyon (Meteoblue) : {m_}\n\n" + d)
+
 def esc(s): return s.replace("\\","\\\\").replace(";",r"\;").replace(",","\\,").replace("\n","\\n")
 def fold(line):
     b = line.encode(); out=[]
