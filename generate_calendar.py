@@ -13,9 +13,9 @@ RENFO = {1:"Renfo niveau 1 (~30 min) : mollets 3x15 sur 2 pieds, squat 3x15, ste
 # Allures : remplacer par des min/km quand le chrono de référence est connu
 ALLURE = {
  "EF": "EF : 5:45-6:15/km sur plat, FC 130-150, tu parles sans effort (oui, c'est lent, c'est voulu)",
- "AM": "allure marathon : 5:05-5:15/km, FC 155-163",
+ "AM": "allure marathon : 5:00-5:10/km, FC 155-163",
  "SEUIL": "allure seuil : 4:35-4:45/km, FC 165-175",
- "VMA": "allure 5-10 km : 4:00-4:10/km sur 400-1000 m, 4:10-4:20/km sur 1500-2000 m, FC 175+ en fin de répétition",
+ "VMA": "allure 5-10 km : 4:00-4:10/km sur 400-1000 m, 4:15-4:25/km sur 1500-2000 m, FC 175+ en fin de répétition",
  "COURT": "30\" à 1' rapide : 3:45-3:55/km, relâché",
 }
 ECH = "15' échauffement EF + 3 lignes droites, puis "
