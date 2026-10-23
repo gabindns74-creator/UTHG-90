@@ -35,6 +35,8 @@ def velo(day, dur, extra=""):
     add(day, f"🚴 Vélo {dur}", f"Vélo endurance {dur}, tu dois pouvoir discuter. {extra}\n{RAIN_BIKE}")
 def repos(day, extra="Repos complet, ou marche / mobilité 20 min."):
     add(day, "😴 Repos", extra)
+def dim_samoens(day):
+    add(day, "🥾 Rando ou raquettes 1h30-2h", "Par défaut tu es à Samoëns, sans vélo jusqu'au printemps : rando ou raquettes à allure facile, du D+ sans l'impact de la course.\nSi tu restes à Lyon : vélo 1h30 (home trainer s'il pleut), ou repos si fatigué.")
 def run(day, title, desc, long=False):
     d = desc + "\n" + PAIN + "\n" + RAIN_RUN
     if long: d += "\n" + NUTRI
@@ -52,7 +54,7 @@ for w in (1,2):
     velo(D(w,2),"1h-1h30")
     add(D(w,2),"💪 Renfo B",RENFO_B)
     renfo(D(w,4),1)
-    velo(D(w,6),"1h30","Ou repos si fatigué.")
+    dim_samoens(D(w,6))
 
 # Phase 1: week -> (km, long, D+, light)
 p1={3:(22,"1h",0,False),4:(26,"1h10",0,False),5:(30,"1h15",200,False),6:(22,"1h",100,True),
@@ -77,7 +79,7 @@ for w,(km,ld,dp,light) in p1.items():
     renfo(D(w,4),lvl,"Ou repos si la semaine est chargée.")
     run(D(w,5),f"Sortie longue {ld}",f"Sortie longue {ld}, ~{lk} km, très facile. Samoëns : vallée ou raquettes. Lyon : parc, berges, Fourvière."+(" Un peu de D+ (~%d m)."%dp if dp else ""))
     if sk: run(D(w,6),f"Course {sk} km récup",f"{sk} km très facile sur plat, ou vélo 1h30 si tu préfères.")
-    else: velo(D(w,6),"1h30","Ou repos.")
+    else: dim_samoens(D(w,6))
 
 # Phase 2 & 3 weeks: (km, D+, long duration, tue quality, phase label, renfo lvl, light?)
 Q_COTES_A = "Côtes Fourvière : 15' échauffement EF, 8 x 1'30 en montée (effort soutenu), retour en trottinant/marchant, 10' retour au calme."
@@ -167,7 +169,7 @@ for (w,km,dp,ld,q,lab,lvl,light) in weeks:
     if w>=23 and not light:
         run(D(w,6), f"Enchaînement {sk} km facile", f"Lendemain de sortie longue : {sk} km facile sur jambes fatiguées. Idéal en montagne à Samoëns.")
     else:
-        run(D(w,6), f"Course {sk} km récup", f"{sk} km très facile, récupération. Ou vélo 1h30 si tu préfères.")
+        run(D(w,6), f"Course {sk} km récup", f"{sk} km très facile, récupération. Ou rando / raquettes 1h30 à Samoëns, ou vélo 1h30 si tu es à Lyon et qu'il fait beau.")
 
 # Ajustements météo (Meteoblue Lyon), mis à jour par Claude dans ajustements.json :
 # {"meteo": {"AAAA-MM-JJ": "texte prévision"}, "echanges": [["AAAA-MM-JJ", "AAAA-MM-JJ", "raison"]]}
