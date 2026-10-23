@@ -12,11 +12,11 @@ RENFO = {1:"Renfo niveau 1 (~30 min) : mollets 3x15 sur 2 pieds, squat 3x15, ste
          3:"Renfo niveau 3 (~40 min) : mollets 1 pied lesté descente lente 3x12, bulgare lesté 3x8 (+ squat sauté 3x6 dès mars), step-down lesté 3x12, pont pieds surélevés 3x12, nordic 3x6-8, gainage 3x1min, élastique dur 3x20, équilibre sur coussin."}
 # Allures : remplacer par des min/km quand le chrono de référence est connu
 ALLURE = {
- "EF": "EF : très facile, 3-4/10, tu parles sans effort, 65-75% FCmax",
- "AM": "allure marathon : 6/10, 80-85% FCmax",
- "SEUIL": "allure seuil (semi-marathon) : 7/10, 85-90% FCmax, quelques mots seulement",
- "VMA": "allure 5-10 km : 8-9/10, 90-95% FCmax en fin de répétition",
- "COURT": "30\" à 1' rapide : allure 3-5 km, 9/10, relâché",
+ "EF": "EF : 5:45-6:15/km sur plat, FC 130-150, tu parles sans effort (oui, c'est lent, c'est voulu)",
+ "AM": "allure marathon : 5:05-5:15/km, FC 155-163",
+ "SEUIL": "allure seuil : 4:35-4:45/km, FC 165-175",
+ "VMA": "allure 5-10 km : 4:00-4:10/km sur 400-1000 m, 4:10-4:20/km sur 1500-2000 m, FC 175+ en fin de répétition",
+ "COURT": "30\" à 1' rapide : 3:45-3:55/km, relâché",
 }
 ECH = "15' échauffement EF + 3 lignes droites, puis "
 FIN = ", puis 10' retour au calme EF."
@@ -123,7 +123,7 @@ for (w,km,dp,ld,q,lab,lvl,light) in weeks:
         continue
     if w==33:
         renfo(D(w,0),3,"Version très légère, pas de charges lourdes.")
-        run(D(w,1),"Footing 40' + 3 x 3' allure course", head + " Allure course UTHG : très facile, objectif 12 min/km de moyenne tout compris (≈18h).")
+        run(D(w,1),"Footing 40' + 3 x 3' allure course", head + " Allure course UTHG : très facile, objectif réaliste 13:30-14:30/km de moyenne tout compris (à affiner sur la course de prépa).")
         velo(D(w,2),"45'","Très facile.")
         run(D(w,3),"Footing 30' facile", "Jambes légères.")
         repos(D(w,4),"Repos. À ajuster quand la date exacte de l'UTHG 90 est connue.")
