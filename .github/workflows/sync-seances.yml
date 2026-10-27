@@ -1,0 +1,30 @@
+name: Synchro séances (intervals.icu)
+
+on:
+  schedule:
+    - cron: "15 4,20 * * *"   # 6h15 et 22h15 heure de Paris (été)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency: sync-seances
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Récupère les séances
+        env:
+          INTERVALS_API_KEY: ${{ secrets.INTERVALS_API_KEY }}
+        run: python3 sync_seances.py
+      - name: Commit si nouveau
+        run: |
+          git config user.name "synchro-seances"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add seances
+          git diff --cached --quiet && exit 0
+          git commit -m "Séances : synchro du $(date -u +%F)"
+          for i in 1 2 3; do git pull --rebase origin main && git push && exit 0; sleep 5; done
+          exit 1
