@@ -1,12 +1,12 @@
 {
  "meteo": {
-  "2026-10-26": "partiellement nuageux, pas de pluie annoncée, 6-14°C, vent faible",
-  "2026-10-27": "clair, pas de pluie annoncée, 7-18°C, vent 19 km/h",
-  "2026-10-28": "partiellement nuageux, pas de pluie annoncée, 9-14°C, vent 21 km/h",
-  "2026-10-29": "partiellement nuageux, pas de pluie annoncée, 8-14°C, vent faible",
-  "2026-10-30": "partiellement nuageux, pas de pluie annoncée, 8-15°C, vent faible",
-  "2026-10-31": "Lyon : partiellement nuageux, 7-13°C (prévision Samoëns non disponible)",
-  "2026-11-01": "Lyon : partiellement nuageux puis clair (prévision Samoëns non disponible)"
+  "2026-10-29": "brouillard puis éclaircies, pas de pluie annoncée, 6-12°C, vent faible",
+  "2026-10-30": "brouillard, pas de pluie annoncée, 6-12°C, vent faible",
+  "2026-10-31": "Lyon : partiellement nuageux, sec, 6-12°C (prévision Samoëns non disponible)",
+  "2026-11-01": "Lyon : partiellement nuageux, sec, 5-11°C (prévision Samoëns non disponible)",
+  "2026-11-02": "partiellement nuageux, pas de pluie annoncée, 5-10°C, vent 18 km/h",
+  "2026-11-03": "partiellement nuageux, pas de pluie annoncée, 5-9°C, vent 13 km/h",
+  "2026-11-04": "partiellement nuageux, pas de pluie annoncée, 2-8°C, vent 11 km/h, couvre-toi sur le vélo"
  },
  "echanges": []
 }
